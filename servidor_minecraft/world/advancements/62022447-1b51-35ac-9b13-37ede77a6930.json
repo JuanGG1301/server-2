@@ -2591,6 +2591,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -2602,6 +2608,12 @@
       "has_lapis_lazuli": "2024-12-28 21:56:00 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -2689,6 +2701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-28 21:31:59 +0000"
@@ -2700,6 +2718,12 @@
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
@@ -2728,6 +2752,19 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-28 21:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-28 22:21:04 +0000",
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
     },
     "done": true
   },
@@ -2773,6 +2810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-28 21:53:34 +0000"
@@ -2814,6 +2857,12 @@
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
@@ -2881,6 +2930,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-28 21:17:20 +0000"
@@ -2911,6 +2966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-28 21:17:20 +0000"
@@ -2935,11 +2996,23 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-28 21:36:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -2980,6 +3053,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-28 21:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
     },
     "done": true
   },
@@ -3073,6 +3152,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-28 21:50:20 +0000"
@@ -3151,6 +3236,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "mushroom_rice": "2024-12-28 21:21:33 +0000"
@@ -3172,6 +3269,12 @@
   "spartanweaponry:recipes/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
     },
     "done": true
   },
@@ -3283,6 +3386,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -3295,9 +3404,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 22:21:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-28 22:20:40 +0000"
     },
     "done": true
   },

@@ -1197,3 +1197,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 22:03:37.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
 [28Dec2024 22:03:37.996] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
 [28Dec2024 22:03:48.240] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[28Dec2024 22:05:48.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.172.102.72:43169] logged in with entity id 20325 at (775.3000000119209, -43.0, -5512.499459644863)
+[28Dec2024 22:05:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[28Dec2024 22:05:48.387] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[28Dec2024 22:05:48.514] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[28Dec2024 22:08:45.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Safe Haven]
+[28Dec2024 22:11:14.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [An Assassin's Need]
+[28Dec2024 22:11:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Will it Come Back?]
+[28Dec2024 22:11:28.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Old School Defense]
+[28Dec2024 22:13:02.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Safe Haven]
+[28Dec2024 22:14:19.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3318ms or 66 ticks behind
+[28Dec2024 22:14:46.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Hammer Time!]
+[28Dec2024 22:14:51.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Going Clubbing]
+[28Dec2024 22:16:17.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Call For Adventure]
+[28Dec2024 22:21:26.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JuanGG1301 lost connection: Disconnected
+[28Dec2024 22:21:26.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanGG1301 left the game
+[28Dec2024 22:24:27.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Disconnected
+[28Dec2024 22:24:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[28Dec2024 22:26:09.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas moved wrongly!
+[28Dec2024 22:27:22.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Tunnel Treasures]
