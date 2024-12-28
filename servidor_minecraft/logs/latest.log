@@ -1185,3 +1185,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 21:47:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Diamonds!]
 [28Dec2024 21:48:12.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Crawling in my Bark]
 [28Dec2024 21:48:45.267] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{oscarbigw})
+[28Dec2024 21:55:10.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Timed out
+[28Dec2024 21:55:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[28Dec2024 21:56:35.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.172.102.72:45231] logged in with entity id 16574 at (950.9472139801749, -20.50479912299409, -5599.300000011921)
+[28Dec2024 21:56:35.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[28Dec2024 21:56:35.207] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[28Dec2024 21:56:35.305] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[28Dec2024 22:00:49.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Disconnected
+[28Dec2024 22:00:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[28Dec2024 22:03:37.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marmotas[/127.186.142.178:49695] logged in with entity id 19114 at (67.14649517382051, 56.0, 1779.5959756638051)
+[28Dec2024 22:03:37.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
+[28Dec2024 22:03:37.996] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[28Dec2024 22:03:48.240] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
