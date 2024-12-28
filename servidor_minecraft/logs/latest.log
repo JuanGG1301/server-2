@@ -1157,3 +1157,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 21:10:40.500] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
 [28Dec2024 21:11:01.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuanGG1301: Teleported JuanGG1301 to polloxsolo]
 [28Dec2024 21:15:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanGG1301 has made the advancement [Stone Age]
+[28Dec2024 21:31:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [We Need to Go Deeper]
+[28Dec2024 21:31:43.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Incendium]
+[28Dec2024 21:31:53.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14693ms or 293 ticks behind
+[28Dec2024 21:31:59.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanGG1301 has made the advancement [We Need to Go Deeper]
+[28Dec2024 21:31:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanGG1301 has made the advancement [Incendium]
+[28Dec2024 21:32:21.657] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=27, z=91}
+[28Dec2024 21:32:21.658] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=27, z=91}
+[28Dec2024 21:32:21.659] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=23, z=93}
+[28Dec2024 21:32:21.661] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-15, y=27, z=89}
+[28Dec2024 21:32:21.661] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=90}
+[28Dec2024 21:32:21.662] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=23, z=92}
+[28Dec2024 21:33:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanGG1301 burned to death
+[28Dec2024 21:33:03.990] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 21:33:03.991] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 21:34:44.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanGG1301 has made the advancement [Strange Biomes]
+[28Dec2024 21:34:48.870] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[28Dec2024 21:34:48.948] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[28Dec2024 21:42:57.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:46035] logged in with entity id 9922 at (68.69999998807907, 77.0, 1778.300000011921)
+[28Dec2024 21:42:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[28Dec2024 21:42:57.360] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[28Dec2024 21:42:57.555] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (121 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=121, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[28Dec2024 21:43:02.975] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[28Dec2024 21:43:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> los agarre con las manos en la masa
+[28Dec2024 21:43:19.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> besandose
+[28Dec2024 21:43:35.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanGG1301> SANTOS BACALAOS ES EL JEFE!!!!

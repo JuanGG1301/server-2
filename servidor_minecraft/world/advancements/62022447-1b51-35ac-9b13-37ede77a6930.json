@@ -1574,7 +1574,8 @@
       "minecraft:vindicator": "2024-12-28 17:08:59 +0000",
       "minecraft:witch": "2024-12-28 17:53:00 +0000",
       "minecraft:husk": "2024-12-28 18:07:40 +0000",
-      "minecraft:cave_spider": "2024-12-28 16:52:08 +0000"
+      "minecraft:cave_spider": "2024-12-28 16:52:08 +0000",
+      "quark:foxhound": "2024-12-28 21:33:48 +0000"
     },
     "done": false
   },
@@ -2533,6 +2534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_saber": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -2575,9 +2582,23 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-28 21:31:59 +0000",
+      "minecraft:basalt_deltas": "2024-12-28 21:34:21 +0000",
+      "minecraft:warped_forest": "2024-12-28 21:34:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-28 21:16:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-28 21:31:59 +0000"
     },
     "done": true
   },
@@ -2617,6 +2638,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-28 21:31:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_throwing_knife": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -2629,9 +2656,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
     },
     "done": true
   },
@@ -2647,6 +2686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -2656,6 +2701,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-28 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
     },
     "done": true
   },
@@ -2671,9 +2722,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/misc/heart_crystal": {
     "criteria": {
       "cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-28 21:34:05 +0000"
     },
     "done": true
   },
@@ -2686,6 +2761,12 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-28 21:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-28 21:34:05 +0000"
     },
     "done": true
   },
@@ -2713,9 +2794,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-28 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-28 21:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-28 21:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-28 21:34:05 +0000"
     },
     "done": true
   },
@@ -2725,9 +2830,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/combat/medkit": {
     "criteria": {
       "cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 21:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-28 21:34:05 +0000"
     },
     "done": true
   },
@@ -2740,6 +2863,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-28 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
     },
     "done": true
   },
@@ -2776,6 +2905,24 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-28 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-28 21:34:44 +0000"
     },
     "done": true
   },
@@ -2839,6 +2986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_javelin": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -2854,6 +3007,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-28 21:34:26 +0000"
     },
     "done": true
   },
@@ -2881,6 +3040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-28 21:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -2892,6 +3057,12 @@
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-28 21:34:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
@@ -2935,6 +3106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-28 21:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:51 +0000"
@@ -2947,9 +3124,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-28 21:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-28 21:38:44 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/misc/power_crystal": {
     "criteria": {
       "cobblestone": "2024-12-28 21:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:36:27 +0000"
     },
     "done": true
   },
