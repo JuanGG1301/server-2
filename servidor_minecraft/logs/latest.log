@@ -1182,3 +1182,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 21:43:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> los agarre con las manos en la masa
 [28Dec2024 21:43:19.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> besandose
 [28Dec2024 21:43:35.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanGG1301> SANTOS BACALAOS ES EL JEFE!!!!
+[28Dec2024 21:47:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Diamonds!]
+[28Dec2024 21:48:12.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Crawling in my Bark]
+[28Dec2024 21:48:45.267] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{oscarbigw})
