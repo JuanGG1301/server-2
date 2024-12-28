@@ -2491,13 +2491,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_iron_ore": "2024-12-28 20:43:06 +0000"
+      "has_gold_nugget": "2024-12-28 20:42:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-28 20:42:29 +0000"
     },
@@ -2509,15 +2509,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-28 20:42:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2024-12-28 20:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-28 20:43:06 +0000"
     },
     "done": true
   },
