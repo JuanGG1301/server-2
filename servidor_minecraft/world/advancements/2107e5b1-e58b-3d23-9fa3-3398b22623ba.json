@@ -125,6 +125,18 @@
     },
     "done": true
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2024-12-28 23:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-28 23:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:30:41 +0000"
@@ -164,6 +176,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-28 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-28 23:42:11 +0000"
     },
     "done": true
   },
@@ -341,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-28 23:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-28 23:27:34 +0000"
@@ -368,6 +392,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-28 23:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-28 23:37:08 +0000"
     },
     "done": true
   },
@@ -401,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-28 23:36:39 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:30:41 +0000"
@@ -416,6 +452,12 @@
   "spartanshields:recipes/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-28 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-28 23:36:41 +0000"
     },
     "done": true
   },
@@ -436,6 +478,14 @@
       "in_water": "2024-12-28 23:27:31 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-28 23:43:28 +0000",
+      "minecraft:spider": "2024-12-28 23:44:15 +0000",
+      "minecraft:zombie": "2024-12-28 23:45:01 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/iron_tomahawk": {
     "criteria": {
@@ -512,6 +562,12 @@
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2024-12-28 23:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-28 23:43:49 +0000"
     },
     "done": true
   },
@@ -644,6 +700,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-28 23:31:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2024-12-28 23:43:46 +0000"
     },
     "done": true
   },
@@ -1049,6 +1111,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-28 23:43:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:30:41 +0000"
@@ -1151,6 +1219,12 @@
     },
     "done": false
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2024-12-28 23:41:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-28 23:27:31 +0000"
@@ -1211,6 +1285,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-28 23:43:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:30:41 +0000"
@@ -1250,6 +1330,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-28 23:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-28 23:43:28 +0000"
     },
     "done": true
   },

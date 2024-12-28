@@ -76,6 +76,7 @@
       "minecraft:beach": "2024-12-28 18:03:02 +0000",
       "minecraft:river": "2024-12-28 17:27:41 +0000",
       "minecraft:snowy_plains": "2024-12-28 18:09:17 +0000",
+      "minecraft:stony_shore": "2024-12-28 23:37:04 +0000",
       "minecraft:snowy_taiga": "2024-12-28 18:08:37 +0000",
       "minecraft:dripstone_caves": "2024-12-28 22:08:36 +0000",
       "minecraft:swamp": "2024-12-28 17:30:50 +0000",
@@ -979,6 +980,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-28 18:29:23 +0000",
       "minecraft:skeleton": "2024-12-28 17:42:54 +0000",
+      "minecraft:ravager": "2024-12-28 23:43:08 +0000",
       "minecraft:vindicator": "2024-12-28 18:26:19 +0000",
       "minecraft:spider": "2024-12-28 18:31:55 +0000",
       "minecraft:creeper": "2024-12-28 17:57:55 +0000",
@@ -3172,9 +3174,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-28 23:37:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 23:37:39 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2024-12-28 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-28 23:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-28 23:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-28 23:39:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-28 23:41:09 +0000"
     },
     "done": true
   },
@@ -3184,9 +3222,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-28 23:41:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2024-12-28 23:35:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-28 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 23:37:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 23:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-28 23:37:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 23:41:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-28 23:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-28 23:41:27 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2024-12-28 23:29:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-28 23:41:09 +0000"
     },
     "done": true
   },
