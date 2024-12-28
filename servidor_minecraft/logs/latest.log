@@ -1230,3 +1230,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 22:52:24.822] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-23, z=385}
 [28Dec2024 22:52:27.397] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-23, z=384}
 [28Dec2024 22:52:27.440] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-23, z=386}
+[28Dec2024 22:57:00.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has completed the challenge [Centennial]
+[28Dec2024 22:58:46.059] [Server thread/INFO] [Scaling Health/]: Blight Husk was killed by oscarbigw

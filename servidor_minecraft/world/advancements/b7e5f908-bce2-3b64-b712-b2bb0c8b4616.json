@@ -1044,7 +1044,8 @@
       "minecraft:cave_spider": "2024-12-28 19:25:45 +0000",
       "minecraft:stray": "2024-12-28 18:44:50 +0000",
       "minecraft:vex": "2024-12-28 19:22:11 +0000",
-      "minecraft:zombie": "2024-12-28 17:43:09 +0000"
+      "minecraft:zombie": "2024-12-28 17:43:09 +0000",
+      "minecraft:zombie_villager": "2024-12-28 23:01:03 +0000"
     },
     "done": false
   },
@@ -2002,6 +2003,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-28 22:16:38 +0000"
@@ -2020,9 +2027,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-28 22:46:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2068,6 +2087,30 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 22:42:53 +0000"
@@ -2083,6 +2126,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2116,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-28 22:47:22 +0000"
@@ -2125,6 +2180,12 @@
   "spartanweaponry:recipes/stone_battle_hammer": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2146,6 +2207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-28 22:39:41 +0000"
@@ -2155,6 +2222,12 @@
   "spartanweaponry:recipes/stone_throwing_knife": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2173,6 +2246,24 @@
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2230,15 +2321,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-28 22:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2284,6 +2399,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/misc/heart_crystal": {
     "criteria": {
       "cobblestone": "2024-12-28 22:38:41 +0000"
@@ -2299,6 +2426,12 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-28 22:13:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2338,9 +2471,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-28 22:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2386,6 +2531,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-28 22:12:54 +0000"
@@ -2401,6 +2558,12 @@
   "scalinghealth:recipes/combat/medkit": {
     "criteria": {
       "cobblestone": "2024-12-28 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2488,6 +2651,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-28 22:30:21 +0000"
@@ -2512,6 +2681,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 22:42:53 +0000"
@@ -2521,6 +2702,12 @@
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_snowy": "2024-12-28 22:08:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/medium_quiver_brace": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2632,6 +2819,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-28 22:30:21 +0000"
@@ -2647,6 +2840,12 @@
   "spartanweaponry:recipes/stone_spear": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2680,6 +2879,30 @@
     },
     "done": true
   },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_pike": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
@@ -2695,6 +2918,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-28 22:40:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_tomahawk": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
@@ -2746,6 +2975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-28 22:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
@@ -2788,6 +3023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-28 22:47:22 +0000"
@@ -2824,6 +3065,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 22:42:53 +0000"
@@ -2854,6 +3101,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:38:41 +0000"
@@ -2875,6 +3128,12 @@
   "scalinghealth:recipes/misc/power_crystal": {
     "criteria": {
       "cobblestone": "2024-12-28 22:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 22:59:53 +0000"
     },
     "done": true
   },
