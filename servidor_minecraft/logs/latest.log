@@ -1226,3 +1226,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 22:39:34.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Disconnected
 [28Dec2024 22:39:34.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
 [28Dec2024 22:44:12.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved wrongly!
+[28Dec2024 22:52:24.821] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-23, z=375}
+[28Dec2024 22:52:24.822] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-23, z=385}
+[28Dec2024 22:52:27.397] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-23, z=384}
+[28Dec2024 22:52:27.440] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-23, z=386}
