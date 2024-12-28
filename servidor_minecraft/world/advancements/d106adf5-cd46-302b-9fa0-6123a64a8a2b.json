@@ -79,11 +79,13 @@
       "minecraft:snowy_taiga": "2024-12-28 18:08:37 +0000",
       "minecraft:dripstone_caves": "2024-12-28 22:08:36 +0000",
       "minecraft:swamp": "2024-12-28 17:30:50 +0000",
+      "minecraft:cold_ocean": "2024-12-28 23:31:59 +0000",
       "minecraft:forest": "2024-12-28 17:27:05 +0000",
       "minecraft:frozen_ocean": "2024-12-28 18:14:04 +0000",
       "minecraft:windswept_forest": "2024-12-28 17:42:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-28 17:51:11 +0000",
       "minecraft:snowy_beach": "2024-12-28 18:13:56 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-28 23:24:09 +0000",
       "minecraft:meadow": "2024-12-28 22:48:47 +0000",
       "minecraft:plains": "2024-12-28 17:29:40 +0000"
     },
@@ -1016,6 +1018,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2024-12-28 17:44:51 +0000",
+      "pillager_outpost": "2024-12-28 23:29:24 +0000",
       "illager_camp": "2024-12-28 18:06:25 +0000"
     },
     "done": false
@@ -3166,6 +3169,30 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_pickaxe": "2024-12-28 23:03:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-28 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-28 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-12-28 23:29:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2024-12-28 23:29:47 +0000"
     },
     "done": true
   },
