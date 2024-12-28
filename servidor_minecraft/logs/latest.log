@@ -1232,3 +1232,90 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Dec2024 22:52:27.440] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-23, z=386}
 [28Dec2024 22:57:00.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has completed the challenge [Centennial]
 [28Dec2024 22:58:46.059] [Server thread/INFO] [Scaling Health/]: Blight Husk was killed by oscarbigw
+[28Dec2024 23:06:34.130] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by oscarbigw
+[28Dec2024 23:09:51.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[28Dec2024 23:09:51.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[28Dec2024 23:11:39.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e160c02[id=<null>,name=oscarbigw,properties={},legacy=false] (/127.167.240.13:34583) lost connection: Disconnected
+[28Dec2024 23:11:44.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:60809] logged in with entity id 46557 at (-485.6925045481368, 161.0, 2938.300000011921)
+[28Dec2024 23:11:44.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[28Dec2024 23:11:44.957] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[28Dec2024 23:11:45.098] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[28Dec2024 23:16:05.414] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[28Dec2024 23:16:05.415] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[28Dec2024 23:16:05.415] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:16:05.416] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[28Dec2024 23:16:05.416] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[28Dec2024 23:16:05.416] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[28Dec2024 23:16:05.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[28Dec2024 23:16:05.417] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[28Dec2024 23:16:05.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[28Dec2024 23:16:05.418] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[28Dec2024 23:16:05.418] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[28Dec2024 23:16:05.419] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:16:05.419] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:16:05.419] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:16:05.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:16:05.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:16:05.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:16:05.421] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:16:05.422] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[28Dec2024 23:16:05.422] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[28Dec2024 23:16:05.422] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[28Dec2024 23:16:05.423] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Dec2024 23:16:05.423] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[28Dec2024 23:16:05.423] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Dec2024 23:16:05.424] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:16:05.424] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:16:05.424] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:16:05.425] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:16:05.425] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[28Dec2024 23:16:05.426] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[28Dec2024 23:17:25.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7452ms or 149 ticks behind
+[28Dec2024 23:17:25.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas moved too quickly! -6.262368011536182,0.7531999805212024,8.109053699498872
+[28Dec2024 23:17:49.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved wrongly!
+[28Dec2024 23:20:05.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.172.102.72:33749] logged in with entity id 50408 at (875.6242285768257, 90.0, -5480.487500011921)
+[28Dec2024 23:20:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[28Dec2024 23:20:05.750] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[28Dec2024 23:20:05.873] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (69 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=69, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[28Dec2024 23:20:11.287] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[28Dec2024 23:20:39.549] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-23, z=375}
+[28Dec2024 23:20:39.550] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-23, z=385}
+[28Dec2024 23:20:39.640] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-23, z=384}
+[28Dec2024 23:20:42.231] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-23, z=386}
+[28Dec2024 23:21:03.888] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[28Dec2024 23:21:03.889] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[28Dec2024 23:21:03.890] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:21:03.890] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[28Dec2024 23:21:03.891] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[28Dec2024 23:21:03.892] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[28Dec2024 23:21:03.892] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[28Dec2024 23:21:03.893] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[28Dec2024 23:21:03.894] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[28Dec2024 23:21:03.894] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[28Dec2024 23:21:03.895] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[28Dec2024 23:21:03.895] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:21:03.896] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:21:03.896] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:21:03.897] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:21:03.897] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:21:03.898] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:21:03.898] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Dec2024 23:21:03.899] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[28Dec2024 23:21:03.900] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[28Dec2024 23:21:03.900] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[28Dec2024 23:21:03.901] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Dec2024 23:21:03.901] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[28Dec2024 23:21:03.902] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Dec2024 23:21:03.902] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:21:03.909] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:21:03.916] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:21:03.916] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Dec2024 23:21:03.917] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[28Dec2024 23:21:03.918] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[28Dec2024 23:23:12.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OGTSsus[/127.235.183.86:49563] logged in with entity id 52635 at (0.5, 69.0, 0.5)
+[28Dec2024 23:23:12.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus joined the game
+[28Dec2024 23:23:12.926] [Server thread/INFO] [Jade/]: Syncing config to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[28Dec2024 23:23:16.834] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[28Dec2024 23:24:22.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Spooky Scary Skeleton]
+[28Dec2024 23:24:54.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Stone Age]
+[28Dec2024 23:25:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Getting an Upgrade]

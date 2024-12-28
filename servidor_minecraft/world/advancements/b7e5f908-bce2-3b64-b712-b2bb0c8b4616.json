@@ -71,6 +71,7 @@
       "minecraft:taiga": "2024-12-28 17:42:24 +0000",
       "minecraft:frozen_river": "2024-12-28 18:05:21 +0000",
       "quark:glimmering_weald": "2024-12-28 22:44:56 +0000",
+      "minecraft:birch_forest": "2024-12-28 23:22:34 +0000",
       "minecraft:windswept_hills": "2024-12-28 17:28:25 +0000",
       "minecraft:beach": "2024-12-28 18:02:28 +0000",
       "minecraft:river": "2024-12-28 17:26:49 +0000",
@@ -2093,6 +2094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 23:04:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 22:59:53 +0000"
@@ -2240,6 +2247,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-28 22:30:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-28 23:10:48 +0000"
     },
     "done": true
   },
