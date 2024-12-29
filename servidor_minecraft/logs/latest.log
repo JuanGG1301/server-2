@@ -1140,3 +1140,121 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Dec2024 18:44:55.187] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
 [29Dec2024 18:44:55.470] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (202 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=202, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
 [29Dec2024 18:45:02.254] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[29Dec2024 19:04:42.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:55413] logged in with entity id 2934 at (-2522.2666597218495, 50.0, 6603.052260403185)
+[29Dec2024 19:04:42.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[29Dec2024 19:04:42.436] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 19:04:43.915] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (1382 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=1382, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[29Dec2024 19:04:47.171] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 19:07:49.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:44339] logged in with entity id 4105 at (-2495.4513774445372, 50.0, 6635.9549535317165)
+[29Dec2024 19:07:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:07:49.285] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:08:11.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[29Dec2024 19:08:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[29Dec2024 19:08:11.605] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:08:18.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maiky0910[/127.212.150.220:50497] logged in with entity id 4312 at (-762.9187598703992, 7.0, 4463.920535959118)
+[29Dec2024 19:08:18.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 joined the game
+[29Dec2024 19:08:18.290] [Server thread/INFO] [Jade/]: Syncing config to Maiky0910 (206d0152-8833-3dd5-ad18-a6802356651f)
+[29Dec2024 19:08:18.456] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (117 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=117, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[29Dec2024 19:08:18.930] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Maiky0910 (206d0152-8833-3dd5-ad18-a6802356651f)
+[29Dec2024 19:08:19.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Timed out
+[29Dec2024 19:08:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 19:09:23.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:60335] logged in with entity id 4904 at (-2495.4513774445372, 50.0, 6635.9549535317165)
+[29Dec2024 19:09:23.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:09:23.695] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:09:23.966] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (167 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=167, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[29Dec2024 19:09:23.993] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:10:32.307] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Maiky0910
+[29Dec2024 19:11:51.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[29Dec2024 19:11:51.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 19:13:11.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:51713] logged in with entity id 6740 at (-2524.699999988079, 56.0, 6634.090855757846)
+[29Dec2024 19:13:11.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[29Dec2024 19:13:11.735] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 19:13:11.928] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (129 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=129, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[29Dec2024 19:13:11.937] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 19:13:28.963] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[29Dec2024 19:13:28.965] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[29Dec2024 19:13:54.920] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[29Dec2024 19:13:54.921] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[29Dec2024 19:13:54.921] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[29Dec2024 19:13:55.185] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[29Dec2024 19:18:19.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:59465] logged in with entity id 9944 at (-2449.832830242575, 49.0, 6616.308446161522)
+[29Dec2024 19:18:19.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:18:19.058] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:18:34.024] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:18:47.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OGTSsus[/127.235.183.86:34503] logged in with entity id 10172 at (-2498.4656969602734, 50.0, 6625.431252092117)
+[29Dec2024 19:18:47.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus joined the game
+[29Dec2024 19:18:47.779] [Server thread/INFO] [Jade/]: Syncing config to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[29Dec2024 19:18:51.861] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[29Dec2024 19:20:11.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD was kicked for floating too long!
+[29Dec2024 19:20:11.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Flying is not enabled on this server
+[29Dec2024 19:20:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 19:20:16.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:56159] logged in with entity id 11030 at (-2494.268673200318, 53.164713511960045, 6611.297610703494)
+[29Dec2024 19:20:16.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:20:16.930] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:20:17.075] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:20:26.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD was kicked for floating too long!
+[29Dec2024 19:20:26.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Flying is not enabled on this server
+[29Dec2024 19:20:26.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 19:20:32.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:39731] logged in with entity id 11191 at (-2494.252855837457, 53.076490121867906, 6611.352409576528)
+[29Dec2024 19:20:32.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:20:32.514] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:20:32.703] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:21:36.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marmotas[/127.186.142.178:43437] logged in with entity id 12493 at (-2528.4581021414892, 56.0, 6606.441609177094)
+[29Dec2024 19:21:36.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
+[29Dec2024 19:21:36.392] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 19:21:37.067] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 19:22:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Quite the Renovation]
+[29Dec2024 19:24:06.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Timed out
+[29Dec2024 19:24:06.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
+[29Dec2024 19:24:15.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marmotas[/127.186.142.178:51045] logged in with entity id 14834 at (-2471.03158464965, 50.0, 6623.810971574048)
+[29Dec2024 19:24:15.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
+[29Dec2024 19:24:15.435] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 19:24:15.566] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 19:25:52.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:52.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:52.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:52.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:52.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:52.803] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:52.906] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.004] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:53.905] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:54.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:54.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:54.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:54.302] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:54.404] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:25:54.505] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 19:26:01.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD was kicked for floating too long!
+[29Dec2024 19:26:01.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Flying is not enabled on this server
+[29Dec2024 19:26:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 19:26:06.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:57733] logged in with entity id 16386 at (-2440.7001484041925, 53.16206495300304, 6615.837081539591)
+[29Dec2024 19:26:06.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:26:06.987] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:26:07.192] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:27:16.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has completed the challenge [Crusade Against Curse]
+[29Dec2024 19:28:52.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Old School Defense]
+[29Dec2024 19:35:28.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[29Dec2024 19:35:28.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 19:35:32.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:52885] logged in with entity id 25010 at (-148.4640938510137, 67.5625, 4059.826692915427)
+[29Dec2024 19:35:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:35:32.307] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:35:32.511] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:35:36.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Not Today, Thank You]
+[29Dec2024 19:36:47.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Timed out
+[29Dec2024 19:36:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 19:37:09.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OGTSsus> zzz
+[29Dec2024 19:37:14.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OGTSsus> zzz
+[29Dec2024 19:37:34.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:52539] logged in with entity id 26440 at (-145.99683411921671, 66.875, 4061.2960976400514)
+[29Dec2024 19:37:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 19:37:34.831] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:37:35.031] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 19:37:43.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OGTSsus> zzz
