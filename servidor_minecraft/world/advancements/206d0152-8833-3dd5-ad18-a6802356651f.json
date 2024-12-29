@@ -87,9 +87,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-29 03:41:14 +0000",
       "log_spam_fixer": "2024-12-28 16:29:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
@@ -662,7 +663,8 @@
       "porkchop": "2024-12-28 16:43:34 +0000",
       "apple": "2024-12-28 16:41:40 +0000",
       "bread": "2024-12-28 16:46:30 +0000",
-      "golden_apple": "2024-12-28 17:15:55 +0000"
+      "golden_apple": "2024-12-28 17:15:55 +0000",
+      "carrot": "2024-12-29 03:40:55 +0000"
     },
     "done": false
   },
@@ -990,6 +992,7 @@
       "minecraft:phantom": "2024-12-29 03:19:02 +0000",
       "minecraft:witch": "2024-12-28 16:51:10 +0000",
       "minecraft:wither_skeleton": "2024-12-28 17:16:53 +0000",
+      "minecraft:husk": "2024-12-29 03:35:59 +0000",
       "minecraft:enderman": "2024-12-28 18:02:01 +0000",
       "minecraft:silverfish": "2024-12-29 03:12:35 +0000",
       "minecraft:stray": "2024-12-29 02:58:07 +0000",
@@ -3316,6 +3319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 03:37:45 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2024-12-29 03:11:32 +0000"
@@ -3328,9 +3337,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-29 03:26:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-29 03:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-29 03:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-29 02:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-29 03:26:07 +0000"
     },
     "done": true
   },
@@ -3376,9 +3409,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-29 03:21:54 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-29 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-29 03:22:03 +0000"
     },
     "done": true
   },
@@ -3388,9 +3433,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-29 03:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2024-12-29 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 03:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-29 03:40:27 +0000"
     },
     "done": true
   },
@@ -3403,6 +3466,18 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 03:26:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 03:40:27 +0000"
     },
     "done": true
   },

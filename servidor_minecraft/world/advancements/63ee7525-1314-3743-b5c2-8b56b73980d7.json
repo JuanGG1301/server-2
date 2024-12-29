@@ -86,6 +86,7 @@
       "minecraft:cold_ocean": "2024-12-28 19:33:09 +0000",
       "minecraft:forest": "2024-12-28 16:29:56 +0000",
       "minecraft:lush_caves": "2024-12-28 21:51:58 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-29 03:24:19 +0000",
       "minecraft:windswept_forest": "2024-12-28 17:03:00 +0000",
       "minecraft:jungle": "2024-12-28 18:07:14 +0000",
       "minecraft:ocean": "2024-12-28 17:48:23 +0000",
@@ -4432,6 +4433,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed": "2024-12-29 01:53:46 +0000"
@@ -4443,6 +4450,12 @@
       "has_planks": "2024-12-29 01:57:28 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
@@ -4474,11 +4487,23 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-12-29 03:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-29 02:13:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
   },
   "nethersdelight:recipes/food/hoglin_sirloin": {
     "criteria": {
@@ -4513,6 +4538,13 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-29 03:43:03 +0000",
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
     },
     "done": true
   },
@@ -4582,6 +4614,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-29 02:14:12 +0000"
@@ -4591,6 +4629,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-29 02:14:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2024-12-29 03:37:18 +0000"
     },
     "done": true
   },
@@ -4611,6 +4655,12 @@
       "has_waxed_copper_block": "2024-12-29 01:49:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
@@ -4654,6 +4704,18 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-29 01:57:13 +0000"
@@ -4696,6 +4758,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-29 03:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-29 02:16:15 +0000"
@@ -4707,6 +4775,12 @@
       "has_blackstone": "2024-12-29 02:16:15 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
@@ -4737,6 +4811,12 @@
       "has_blackstone": "2024-12-29 02:16:15 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -4771,6 +4851,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-29 02:16:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-29 03:37:23 +0000"
     },
     "done": true
   },
@@ -4834,6 +4920,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
+  },
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2024-12-29 02:16:15 +0000"
@@ -4857,6 +4949,12 @@
       "has_waxed_copper_block": "2024-12-29 01:49:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 03:42:14 +0000"
+    },
+    "done": false
   },
   "incendium:misc/soul_searcher": {
     "criteria": {

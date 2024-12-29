@@ -1702,3 +1702,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [29Dec2024 03:20:06.038] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [29Dec2024 03:21:54.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Best Friends Forever]
+[29Dec2024 03:24:12.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Dec2024 03:26:44.306] [Server thread/INFO] [Scaling Health/]: Blight Seal was killed by polloxsolo
+[29Dec2024 03:27:21.787] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Darielo_XD
+[29Dec2024 03:32:41.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/290117, l='ServerLevel[world]', x=864.51, y=90.00, z=-5489.30] died, message: 'Butcher was slain by Zombie'
+[29Dec2024 03:34:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Magery]
+[29Dec2024 03:37:23.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Magery]
+[29Dec2024 03:37:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [No Longer Short-Staffed]
+[29Dec2024 03:37:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Quite the Walking Stick]
+[29Dec2024 03:43:04.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo was kicked for floating too long!
+[29Dec2024 03:43:04.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Flying is not enabled on this server
+[29Dec2024 03:43:04.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[29Dec2024 03:43:06.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Disconnected
+[29Dec2024 03:43:06.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 03:43:13.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.172.102.72:58271] logged in with entity id 296836 at (-362.8552034811313, 70.33495806621, -370.60596207803087)
+[29Dec2024 03:43:13.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[29Dec2024 03:43:13.883] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[29Dec2024 03:43:13.994] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[29Dec2024 03:43:56.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:38181] logged in with entity id 297163 at (61.30000001192093, 63.0, 1585.023145550938)
+[29Dec2024 03:43:56.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 03:43:56.651] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 03:43:56.897] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (150 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=150, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[29Dec2024 03:43:57.528] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)

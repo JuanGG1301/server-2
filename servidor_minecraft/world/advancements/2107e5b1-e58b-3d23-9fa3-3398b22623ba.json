@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-29 03:25:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 23:27:34 +0000"
@@ -434,6 +440,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-28 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-29 03:25:33 +0000"
     },
     "done": true
   },
@@ -936,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:30:41 +0000"
@@ -1152,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-12-29 01:28:37 +0000"
@@ -1173,6 +1197,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-29 00:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
     },
     "done": true
   },
@@ -1406,6 +1436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-28 23:45:31 +0000"
@@ -1586,6 +1622,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2024-12-29 03:31:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2024-12-29 00:40:14 +0000"
@@ -1625,6 +1667,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
     },
     "done": true
   },
@@ -1727,6 +1775,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-28 23:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
     },
     "done": true
   },
@@ -1994,6 +2054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-29 03:29:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2024-12-29 00:55:57 +0000"
@@ -2009,6 +2075,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-29 03:25:33 +0000"
     },
     "done": true
   },
@@ -2087,6 +2159,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-29 00:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
     },
     "done": true
   },
@@ -2244,6 +2322,12 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2024-12-29 01:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-29 03:26:59 +0000"
     },
     "done": true
   },
@@ -2811,6 +2895,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-29 03:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-28 23:31:03 +0000"
@@ -3069,6 +3159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-29 03:29:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-29 00:53:23 +0000"
@@ -3239,12 +3335,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-29 03:23:21 +0000",
+      "minecraft:taiga": "2024-12-29 03:23:04 +0000",
       "minecraft:sunflower_plains": "2024-12-29 01:07:16 +0000",
       "minecraft:beach": "2024-12-29 03:00:06 +0000",
       "minecraft:river": "2024-12-28 23:27:30 +0000",
       "minecraft:dripstone_caves": "2024-12-29 00:01:12 +0000",
       "minecraft:cold_ocean": "2024-12-29 03:01:01 +0000",
       "minecraft:forest": "2024-12-28 23:23:13 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-29 03:24:19 +0000",
       "minecraft:ocean": "2024-12-29 03:00:26 +0000",
       "minecraft:plains": "2024-12-28 23:29:19 +0000"
     },
@@ -3325,6 +3424,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-28 23:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-29 03:29:03 +0000"
     },
     "done": true
   },
