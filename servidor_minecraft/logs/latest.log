@@ -1724,3 +1724,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29Dec2024 03:43:56.651] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
 [29Dec2024 03:43:56.897] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (150 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=150, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
 [29Dec2024 03:43:57.528] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 03:46:43.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus was kicked for floating too long!
+[29Dec2024 03:46:43.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus lost connection: Flying is not enabled on this server
+[29Dec2024 03:46:43.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus left the game
+[29Dec2024 03:46:52.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OGTSsus[/127.235.183.86:53031] logged in with entity id 298794 at (-387.29972650988896, 74.1574079454343, -363.58215162217857)
+[29Dec2024 03:46:52.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus joined the game
+[29Dec2024 03:46:52.894] [Server thread/INFO] [Jade/]: Syncing config to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[29Dec2024 03:46:53.013] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[29Dec2024 03:47:23.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus was kicked for floating too long!
+[29Dec2024 03:47:23.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus lost connection: Flying is not enabled on this server
+[29Dec2024 03:47:23.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus left the game
+[29Dec2024 03:47:50.319] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d7e194e[id=<null>,name=OGTSsus,properties={},legacy=false] (/127.235.183.86:39709) lost connection: Disconnected
+[29Dec2024 03:48:20.225] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d813467[id=<null>,name=OGTSsus,properties={},legacy=false] (/127.235.183.86:35753) lost connection: Disconnected
+[29Dec2024 03:48:26.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OGTSsus[/127.235.183.86:56125] logged in with entity id 299400 at (-387.1017047734844, 74.09927244634841, -363.6610711970759)
+[29Dec2024 03:48:26.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus joined the game
+[29Dec2024 03:48:27.034] [Server thread/INFO] [Jade/]: Syncing config to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[29Dec2024 03:48:27.131] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[29Dec2024 03:53:23.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[29Dec2024 03:53:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game

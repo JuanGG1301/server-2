@@ -87,10 +87,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-29 03:41:14 +0000",
       "log_spam_fixer": "2024-12-28 16:29:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
@@ -3319,6 +3318,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-29 03:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 03:43:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-29 03:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2024-12-29 03:37:45 +0000"
@@ -3355,6 +3372,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-29 03:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-29 02:59:40 +0000"
@@ -3385,6 +3420,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-29 03:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-29 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 02:55:14 +0000"
@@ -3409,9 +3468,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-29 03:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-29 03:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
     },
     "done": true
   },
@@ -3433,6 +3504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-29 03:34:37 +0000"
@@ -3442,6 +3519,12 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2024-12-29 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-29 03:46:21 +0000"
     },
     "done": true
   },
@@ -3463,9 +3546,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-29 03:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-29 03:48:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-29 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-29 03:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
     },
     "done": true
   },
@@ -3478,6 +3597,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-29 03:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-29 03:46:21 +0000"
     },
     "done": true
   },
