@@ -5247,5 +5247,41 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2024-12-29 22:58:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2024-12-29 22:52:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2024-12-29 22:44:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-29 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-12-29 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2024-12-29 22:44:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
