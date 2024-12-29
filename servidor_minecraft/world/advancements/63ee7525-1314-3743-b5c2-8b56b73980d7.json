@@ -1548,6 +1548,7 @@
       "minecraft:cave_spider": "2024-12-28 16:50:52 +0000",
       "minecraft:piglin": "2024-12-29 02:10:52 +0000",
       "minecraft:enderman": "2024-12-29 02:36:19 +0000",
+      "minecraft:stray": "2024-12-29 22:37:59 +0000",
       "minecraft:zombie": "2024-12-28 16:45:40 +0000",
       "minecraft:drowned": "2024-12-29 20:28:05 +0000"
     },
@@ -1742,6 +1743,7 @@
       "rotten_flesh": "2024-12-28 23:37:33 +0000",
       "golden_carrot": "2024-12-29 02:57:55 +0000",
       "mushroom_stew": "2024-12-28 17:44:54 +0000",
+      "cooked_salmon": "2024-12-29 22:14:17 +0000",
       "carrot": "2024-12-29 03:56:02 +0000"
     },
     "done": false
@@ -5148,33 +5150,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-12-29 21:59:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2024-12-29 21:59:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-29 21:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-29 21:59:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-29 21:59:56 +0000"
     },
     "done": true
   },
@@ -5202,9 +5180,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
-      "has_bricks": "2024-12-29 21:59:56 +0000"
+      "has_mud_bricks": "2024-12-29 21:22:08 +0000"
     },
     "done": true
   },
@@ -5221,15 +5199,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
-      "has_mud_bricks": "2024-12-29 21:22:08 +0000"
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-29 22:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-29 22:24:31 +0000"
     },
     "done": true
   },
