@@ -995,6 +995,7 @@
       "minecraft:witch": "2024-12-28 16:51:10 +0000",
       "minecraft:wither_skeleton": "2024-12-28 17:16:53 +0000",
       "minecraft:husk": "2024-12-29 03:35:59 +0000",
+      "minecraft:cave_spider": "2024-12-29 04:57:16 +0000",
       "minecraft:enderman": "2024-12-28 18:02:01 +0000",
       "minecraft:silverfish": "2024-12-29 03:12:35 +0000",
       "minecraft:stray": "2024-12-29 02:58:07 +0000",
@@ -3747,6 +3748,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-29 05:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-12-29 04:53:28 +0000"
@@ -3771,6 +3778,13 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2024-12-29 05:01:24 +0000",
+      "skeleton_skull": "2024-12-29 04:57:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-29 04:55:04 +0000"
@@ -3780,6 +3794,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-29 04:55:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-29 05:01:28 +0000"
     },
     "done": true
   },
@@ -3804,6 +3824,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_brown_wool": "2024-12-29 04:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-29 04:57:41 +0000"
     },
     "done": true
   },
@@ -3837,9 +3863,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-29 05:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 04:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 04:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-29 04:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-29 05:01:08 +0000"
     },
     "done": true
   },
@@ -3879,9 +3929,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-29 05:01:28 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-29 05:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-29 05:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-29 04:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 04:58:35 +0000"
     },
     "done": true
   },
