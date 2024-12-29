@@ -2091,3 +2091,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29Dec2024 05:47:41.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
 [29Dec2024 05:47:41.367] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
 [29Dec2024 05:47:41.566] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 05:49:15.768] [Server thread/INFO] [Scaling Health/]: Blight Bison was killed by Darielo_XD
+[29Dec2024 05:50:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has completed the challenge [Crusade Against Curse]
+[29Dec2024 05:52:49.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Blunt-force Trauma]
+[29Dec2024 05:54:26.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [A not-so-pointy Stick!]
+[29Dec2024 05:54:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Old School Defense]
+[29Dec2024 05:54:42.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Halberdier]
+[29Dec2024 05:54:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Hunt and Gather]
+[29Dec2024 05:54:52.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Burying the Hatchet]
+[29Dec2024 05:55:45.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[29Dec2024 05:55:45.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[29Dec2024 05:55:49.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:56493] logged in with entity id 417498 at (-2522.2666597218495, 50.0, 6603.052260403185)
+[29Dec2024 05:55:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[29Dec2024 05:55:49.330] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 05:55:49.562] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 05:56:27.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Disconnected
+[29Dec2024 05:56:27.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
