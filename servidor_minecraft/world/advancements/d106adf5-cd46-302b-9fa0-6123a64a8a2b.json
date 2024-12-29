@@ -82,6 +82,7 @@
       "minecraft:swamp": "2024-12-28 17:30:50 +0000",
       "minecraft:cold_ocean": "2024-12-28 23:31:59 +0000",
       "minecraft:forest": "2024-12-28 17:27:05 +0000",
+      "minecraft:ice_spikes": "2024-12-29 02:24:45 +0000",
       "minecraft:frozen_ocean": "2024-12-28 18:14:04 +0000",
       "minecraft:windswept_forest": "2024-12-28 17:42:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-28 17:51:11 +0000",
@@ -987,6 +988,7 @@
       "minecraft:spider": "2024-12-28 18:31:55 +0000",
       "minecraft:creeper": "2024-12-28 17:57:55 +0000",
       "minecraft:evoker": "2024-12-28 21:48:59 +0000",
+      "minecraft:phantom": "2024-12-29 02:00:04 +0000",
       "minecraft:witch": "2024-12-28 17:44:52 +0000",
       "minecraft:wither_skeleton": "2024-12-29 01:14:01 +0000",
       "minecraft:husk": "2024-12-28 22:58:46 +0000",
@@ -3576,6 +3578,30 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-29 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-12-29 01:59:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-29 02:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-29 02:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-29 02:06:34 +0000"
     },
     "done": true
   },
