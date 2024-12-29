@@ -1149,6 +1149,7 @@
       "minecraft:pillager": "2024-12-28 19:08:41 +0000",
       "minecraft:skeleton": "2024-12-28 18:13:01 +0000",
       "minecraft:ravager": "2024-12-29 00:05:15 +0000",
+      "minecraft:hoglin": "2024-12-29 23:09:39 +0000",
       "minecraft:vindicator": "2024-12-28 19:08:51 +0000",
       "minecraft:spider": "2024-12-28 17:10:28 +0000",
       "minecraft:creeper": "2024-12-28 19:13:24 +0000",
@@ -1158,6 +1159,7 @@
       "minecraft:wither_skeleton": "2024-12-28 17:16:12 +0000",
       "minecraft:husk": "2024-12-29 04:01:56 +0000",
       "minecraft:cave_spider": "2024-12-28 19:29:16 +0000",
+      "minecraft:piglin": "2024-12-29 23:11:08 +0000",
       "minecraft:silverfish": "2024-12-29 03:12:23 +0000",
       "minecraft:stray": "2024-12-29 02:58:04 +0000",
       "minecraft:vex": "2024-12-28 19:14:54 +0000",
@@ -4808,6 +4810,30 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-29 23:11:48 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/warped_moldy_meat": {
+    "criteria": {
+      "has_sirloin": "2024-12-29 23:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-29 23:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2024-12-29 22:56:05 +0000"
@@ -4820,9 +4846,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-29 22:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2024-12-29 23:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
     },
     "done": true
   },
@@ -4832,9 +4894,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:blacksmith": "2024-12-29 23:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-29 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-29 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/cooking/magma_gelatin": {
+    "criteria": {
+      "has_propelpearl": "2024-12-29 23:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-29 23:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-29 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-29 23:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-29 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2024-12-29 22:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-29 23:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2024-12-29 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/propelplant_torch": {
+    "criteria": {
+      "has_propelplant": "2024-12-29 23:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2024-12-29 23:08:20 +0000"
     },
     "done": true
   },
@@ -4844,9 +5038,45 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-29 23:19:54 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/nether_skewer": {
+    "criteria": {
+      "has_propelpearl": "2024-12-29 23:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 23:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-29 22:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-29 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 23:12:05 +0000"
     },
     "done": true
   },
