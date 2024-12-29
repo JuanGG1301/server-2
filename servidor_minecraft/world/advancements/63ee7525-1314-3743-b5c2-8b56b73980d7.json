@@ -69,11 +69,14 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-28 23:33:59 +0000",
       "minecraft:taiga": "2024-12-28 19:35:47 +0000",
+      "minecraft:deep_ocean": "2024-12-29 20:58:36 +0000",
+      "minecraft:eroded_badlands": "2024-12-29 20:16:16 +0000",
       "minecraft:frozen_river": "2024-12-28 20:16:40 +0000",
       "quark:glimmering_weald": "2024-12-28 21:54:27 +0000",
       "minecraft:sunflower_plains": "2024-12-28 19:49:38 +0000",
       "minecraft:birch_forest": "2024-12-28 17:02:54 +0000",
       "minecraft:windswept_hills": "2024-12-29 01:30:09 +0000",
+      "minecraft:badlands": "2024-12-29 20:14:55 +0000",
       "minecraft:beach": "2024-12-28 17:44:07 +0000",
       "minecraft:dark_forest": "2024-12-29 20:01:42 +0000",
       "minecraft:mangrove_swamp": "2024-12-28 17:28:06 +0000",
@@ -89,12 +92,14 @@
       "minecraft:forest": "2024-12-28 16:29:56 +0000",
       "minecraft:lush_caves": "2024-12-28 21:51:58 +0000",
       "minecraft:deep_cold_ocean": "2024-12-29 03:24:19 +0000",
+      "minecraft:desert": "2024-12-29 20:14:51 +0000",
       "minecraft:windswept_forest": "2024-12-28 17:03:00 +0000",
       "minecraft:jungle": "2024-12-28 18:07:14 +0000",
       "minecraft:ocean": "2024-12-28 17:48:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-28 19:35:05 +0000",
       "minecraft:snowy_beach": "2024-12-28 20:08:32 +0000",
       "minecraft:windswept_savanna": "2024-12-28 17:43:36 +0000",
+      "minecraft:warm_ocean": "2024-12-29 20:14:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-29 00:42:01 +0000",
       "minecraft:flower_forest": "2024-12-29 01:38:10 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 19:31:32 +0000",
@@ -1541,7 +1546,8 @@
       "minecraft:cave_spider": "2024-12-28 16:50:52 +0000",
       "minecraft:piglin": "2024-12-29 02:10:52 +0000",
       "minecraft:enderman": "2024-12-29 02:36:19 +0000",
-      "minecraft:zombie": "2024-12-28 16:45:40 +0000"
+      "minecraft:zombie": "2024-12-28 16:45:40 +0000",
+      "minecraft:drowned": "2024-12-29 20:28:05 +0000"
     },
     "done": false
   },
@@ -4924,9 +4930,87 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 21:09:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-29 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
     },
     "done": true
   },
@@ -4936,9 +5020,105 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2024-12-29 20:41:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-29 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-29 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-29 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-29 20:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-29 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-29 20:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-29 20:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-29 19:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-29 20:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-29 20:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-29 20:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-29 20:54:50 +0000"
     },
     "done": true
   },
@@ -4948,9 +5128,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-29 21:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-29 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-29 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-12-29 20:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-29 20:44:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-29 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-29 19:28:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-29 20:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 20:34:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-29 20:16:43 +0000"
     },
     "done": true
   },
