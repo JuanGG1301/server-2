@@ -372,3 +372,13 @@
 [29Dec2024 01:40:21.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
 [29Dec2024 01:40:21.175] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
 [29Dec2024 01:40:21.329] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[29Dec2024 01:41:40.004] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[29Dec2024 01:42:23.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw was kicked for floating too long!
+[29Dec2024 01:42:23.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Flying is not enabled on this server
+[29Dec2024 01:42:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[29Dec2024 01:42:32.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:43209] logged in with entity id 185519 at (-770.3733148868869, 72.02869585855078, 5052.96023724506)
+[29Dec2024 01:42:32.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[29Dec2024 01:42:32.982] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 01:42:33.068] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 01:42:51.417] [Server thread/INFO] [Scaling Health/]: Blight Crow was killed by Darielo_XD
+[29Dec2024 01:44:53.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Cover Me with Diamonds]
