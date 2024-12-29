@@ -2028,3 +2028,66 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29Dec2024 05:24:25.938] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
 [29Dec2024 05:27:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Frosted Prison]
 [29Dec2024 05:27:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Frosted Prison]
+[29Dec2024 05:36:00.216] [Server thread/INFO] [Scaling Health/]: Blight Phantom has died
+[29Dec2024 05:36:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has completed the challenge [Night Vanquisher]
+[29Dec2024 05:39:17.464] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by marmotas
+[29Dec2024 05:39:52.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas was kicked for floating too long!
+[29Dec2024 05:39:53.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Flying is not enabled on this server
+[29Dec2024 05:39:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
+[29Dec2024 05:40:24.008] [Server thread/INFO] [Scaling Health/]: Blight Elite Draugr was killed by Darielo_XD
+[29Dec2024 05:40:27.058] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c896f66[id=<null>,name=marmotas,properties={},legacy=false] (/127.186.142.178:57495) lost connection: Disconnected
+[29Dec2024 05:40:27.361] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Darielo_XD})
+[29Dec2024 05:40:33.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marmotas[/127.186.142.178:34525] logged in with entity id 412450 at (-2571.5096151452262, 65.17254459013226, 6562.6935675890345)
+[29Dec2024 05:40:33.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
+[29Dec2024 05:40:34.044] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 05:40:34.125] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 05:40:35.313] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Darielo_XD})
+[29Dec2024 05:40:42.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas was kicked for floating too long!
+[29Dec2024 05:40:42.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Flying is not enabled on this server
+[29Dec2024 05:40:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
+[29Dec2024 05:40:46.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marmotas[/127.186.142.178:51213] logged in with entity id 412611 at (-2571.5096151452262, 65.13619316976651, 6562.6935675890345)
+[29Dec2024 05:40:46.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
+[29Dec2024 05:40:46.393] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 05:40:46.474] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 05:41:04.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas was kicked for floating too long!
+[29Dec2024 05:41:04.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Flying is not enabled on this server
+[29Dec2024 05:41:04.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
+[29Dec2024 05:41:09.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marmotas[/127.186.142.178:39063] logged in with entity id 412821 at (-2572.2696112503027, 67.3486084622699, 6563.162165077793)
+[29Dec2024 05:41:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
+[29Dec2024 05:41:09.973] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 05:41:10.120] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[29Dec2024 05:42:26.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Not the Olympic Type]
+[29Dec2024 05:42:31.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [A Cut Above the Rest]
+[29Dec2024 05:42:33.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Blunt-force Trauma]
+[29Dec2024 05:42:34.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Smash And Bash!]
+[29Dec2024 05:42:34.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Hunt and Gather]
+[29Dec2024 05:43:01.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Reaping What You Sow]
+[29Dec2024 05:44:45.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD was kicked for floating too long!
+[29Dec2024 05:44:45.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Flying is not enabled on this server
+[29Dec2024 05:44:45.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 05:44:58.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:47853] logged in with entity id 414076 at (-2447.9541778169464, 51.45983831041171, 6616.952674156213)
+[29Dec2024 05:44:58.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 05:44:58.544] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 05:44:58.861] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 05:45:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has completed the challenge [Crusade Against Curse]
+[29Dec2024 05:47:07.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw was kicked for floating too long!
+[29Dec2024 05:47:07.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Flying is not enabled on this server
+[29Dec2024 05:47:07.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[29Dec2024 05:47:12.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:43105] logged in with entity id 414906 at (-2447.501743939132, 52.12283058109933, 6607.541987206455)
+[29Dec2024 05:47:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[29Dec2024 05:47:12.443] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 05:47:12.531] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 05:47:25.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD was kicked for floating too long!
+[29Dec2024 05:47:25.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Flying is not enabled on this server
+[29Dec2024 05:47:25.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[29Dec2024 05:47:31.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw was kicked for floating too long!
+[29Dec2024 05:47:31.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Flying is not enabled on this server
+[29Dec2024 05:47:31.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[29Dec2024 05:47:36.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:52529] logged in with entity id 415019 at (-2447.501743939132, 52.11086630599357, 6607.541987206455)
+[29Dec2024 05:47:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[29Dec2024 05:47:36.182] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 05:47:36.266] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 05:47:41.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:57137] logged in with entity id 415023 at (-2447.501743939132, 52.16451191967783, 6607.541987206455)
+[29Dec2024 05:47:41.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[29Dec2024 05:47:41.367] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[29Dec2024 05:47:41.566] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)

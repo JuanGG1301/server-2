@@ -3545,15 +3545,27 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-29 05:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-29 05:22:33 +0000"
     },
     "done": true
   },
-  "cataclysm:find_frosted_prison": {
+  "spartanweaponry:javelin": {
     "criteria": {
-      "prison": "2024-12-29 05:21:18 +0000"
+      "has_javelin": "2024-12-29 05:42:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2024-12-29 05:42:31 +0000"
     },
     "done": true
   },
