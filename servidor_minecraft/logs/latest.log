@@ -184,3 +184,17 @@
 [29Dec2024 00:59:07.944] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
 [29Dec2024 00:59:07.944] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
 [29Dec2024 00:59:07.944] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[29Dec2024 01:01:53.183] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Darielo_XD
+[29Dec2024 01:02:27.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas moved wrongly!
+[29Dec2024 01:02:27.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw moved wrongly!
+[29Dec2024 01:04:38.337] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[29Dec2024 01:04:38.338] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[29Dec2024 01:04:38.338] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[29Dec2024 01:04:38.338] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[29Dec2024 01:04:38.338] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[29Dec2024 01:06:02.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Disconnected
+[29Dec2024 01:06:02.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[29Dec2024 01:06:10.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/155354, l='ServerLevel[world]', x=-715.91, y=212.00, z=4922.54] died: Gearling was slain by oscarbigw
+[29Dec2024 01:06:11.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/155377, l='ServerLevel[world]', x=-714.49, y=212.00, z=4922.12] died: Gearling was slain by oscarbigw
+[29Dec2024 01:09:05.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/155784, l='ServerLevel[world]', x=-771.47, y=204.00, z=4961.18] died: Gearling fell from a high place
+[29Dec2024 01:09:38.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/155558, l='ServerLevel[world]', x=-763.53, y=204.00, z=4961.18] died: Gearling fell from a high place

@@ -4056,73 +4056,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 00:55:30 +0000"
+      "log_spam_fixer": "2024-12-29 01:05:30 +0000"
     },
     "done": false
   },
@@ -4144,6 +4144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-29 00:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-29 00:03:50 +0000"
@@ -4153,6 +4159,18 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-29 00:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-29 00:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-29 01:03:23 +0000"
     },
     "done": true
   },
@@ -4192,6 +4210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-29 01:03:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-29 00:19:33 +0000"
@@ -4213,6 +4237,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-29 00:11:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-29 01:03:10 +0000"
     },
     "done": true
   },
