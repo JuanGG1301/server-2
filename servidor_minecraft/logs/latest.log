@@ -1796,3 +1796,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29Dec2024 04:33:18.232] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Maiky0910 (206d0152-8833-3dd5-ad18-a6802356651f)
 [29Dec2024 04:33:33.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [When in Rome]
 [29Dec2024 04:33:37.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Mine? Mine? Mine?]
+[29Dec2024 04:36:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [A Bigger Blade]
+[29Dec2024 04:36:45.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Take Aim]
+[29Dec2024 04:38:13.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has completed the challenge [Centennial]
+[29Dec2024 04:41:13.279] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{marmotas})
+[29Dec2024 04:42:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Safe Haven]
+[29Dec2024 04:43:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Call For Adventure]
+[29Dec2024 04:43:26.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[29Dec2024 04:44:44.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [No Longer Short-Staffed]
+[29Dec2024 04:44:44.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Quite the Walking Stick]
+[29Dec2024 04:44:49.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Magery]
