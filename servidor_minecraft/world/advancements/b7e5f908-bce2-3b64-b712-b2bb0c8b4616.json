@@ -83,11 +83,13 @@
       "minecraft:swamp": "2024-12-28 17:31:02 +0000",
       "minecraft:cold_ocean": "2024-12-28 23:33:48 +0000",
       "minecraft:forest": "2024-12-28 17:24:55 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-29 04:55:26 +0000",
       "minecraft:frozen_ocean": "2024-12-28 18:14:02 +0000",
       "minecraft:windswept_forest": "2024-12-28 17:42:25 +0000",
       "minecraft:ocean": "2024-12-29 02:47:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-28 17:56:38 +0000",
       "minecraft:snowy_beach": "2024-12-28 18:13:37 +0000",
+      "minecraft:windswept_savanna": "2024-12-29 04:48:23 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 02:35:06 +0000",
       "minecraft:meadow": "2024-12-28 18:37:50 +0000",
       "minecraft:plains": "2024-12-28 17:30:16 +0000"
@@ -3461,6 +3463,18 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-29 02:59:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-29 04:55:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-29 04:51:08 +0000"
     },
     "done": true
   },
