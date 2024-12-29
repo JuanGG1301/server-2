@@ -3025,6 +3025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-29 00:39:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 22:59:53 +0000"

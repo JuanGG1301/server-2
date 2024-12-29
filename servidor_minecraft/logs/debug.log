@@ -20081,3 +20081,678 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Dec2024 00:38:05.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [29Dec2024 00:38:07.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [29Dec2024 00:38:08.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:13.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:13.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:13.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:13.742] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:39:14.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:14.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:15.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:26.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:39:26.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:40:07.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[29Dec2024 00:40:30.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 00:40:30.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 00:41:22.760] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9b
+[29Dec2024 00:41:22.764] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[29Dec2024 00:41:28.683] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3
+[29Dec2024 00:41:36.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[29Dec2024 00:41:36.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[29Dec2024 00:41:36.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[29Dec2024 00:41:36.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[29Dec2024 00:41:48.853] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[29Dec2024 00:41:50.951] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[29Dec2024 00:41:50.954] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[29Dec2024 00:41:57.944] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[29Dec2024 00:41:59.268] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[29Dec2024 00:42:14.746] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[29Dec2024 00:42:14.754] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[29Dec2024 00:42:24.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:24.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:42:24.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:24.894] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:25.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:25.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:42:25.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:25.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:26.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:26.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:42:26.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:26.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:26.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:26.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:42:26.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:26.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:27.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:27.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:42:27.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:27.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:27.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:27.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:42:27.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:27.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:28.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:29.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:29.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:42:29.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:29.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:42:31.449] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[29Dec2024 00:42:31.457] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[29Dec2024 00:42:31.467] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[29Dec2024 00:42:31.477] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[29Dec2024 00:42:31.485] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[29Dec2024 00:42:34.745] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[29Dec2024 00:42:34.767] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[29Dec2024 00:42:34.780] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[29Dec2024 00:42:34.783] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[29Dec2024 00:42:34.806] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[29Dec2024 00:42:34.810] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[29Dec2024 00:42:39.462] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[29Dec2024 00:42:39.466] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_villager is being run through DFU (hash 2d80bc1d283805cd0bf88a5d2de0753cd3e453cfc241c3b94fd9bbb4e5ed8008), this will cause launch time delays
+[29Dec2024 00:42:39.467] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_animal_pen1 is being run through DFU (hash defb55396dbddd07e1c1041d25ee78152f21ea2f88356228d1be192b79516141), this will cause launch time delays
+[29Dec2024 00:42:39.468] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_animal_pen2 is being run through DFU (hash cb9cfb4cc74b847b2dbed2175be3c489df19d327df74eaab607bce6024532f48), this will cause launch time delays
+[29Dec2024 00:42:39.468] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_animal_pen3 is being run through DFU (hash 34aeda396ce4913c63d212c133f4664202521a749e2a727c1f7bde3d369f4424), this will cause launch time delays
+[29Dec2024 00:42:39.469] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_big_house1 is being run through DFU (hash f341ca168647c59eaca94ebfe51da65d46111e8f1e6b2adcfed21ededd0abf6e), this will cause launch time delays
+[29Dec2024 00:42:39.470] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_big_house2 is being run through DFU (hash 534b5afb433b902e02d70161651ce2cd2f565e888d200d1d02fb3801b3d73b84), this will cause launch time delays
+[29Dec2024 00:42:39.472] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_blast_furnace is being run through DFU (hash cc47924c6e51c208f9457c8ee69800aaf20e8a5685362da48eb7b6ffa90a8743), this will cause launch time delays
+[29Dec2024 00:42:39.473] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_cartography is being run through DFU (hash ab43b25cc8ade1af45dca865b37f2eec3bce4e024bc67e8369a72c65194c4cf3), this will cause launch time delays
+[29Dec2024 00:42:39.475] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_cleric is being run through DFU (hash 17214e44d9647bd5b5941af6231007e8998c11493196afae7e7e3dcfd9f886cf), this will cause launch time delays
+[29Dec2024 00:42:39.476] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_cleric2 is being run through DFU (hash 8fb5d3abe668cfd57a86d69f3c1eb7abcfe4603e66bf9eed7bdb1133587bd832), this will cause launch time delays
+[29Dec2024 00:42:39.477] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_farm1 is being run through DFU (hash f8cc269434c6d44b32f3a6f362af1d190cfc6d9b3422320a5b2680539b531d40), this will cause launch time delays
+[29Dec2024 00:42:39.478] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_fisher is being run through DFU (hash 388738ca41e506f029fad651b9315e0fced96ee3a71bffd480a857dda4436297), this will cause launch time delays
+[29Dec2024 00:42:39.478] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_farm2 is being run through DFU (hash d886fdc202d69cb2c495b5c6e93c8106e13c85daaecc65a1a5789079c5466e78), this will cause launch time delays
+[29Dec2024 00:42:39.479] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_farm3 is being run through DFU (hash 300fb8e0ed957312f771af854d074b3683d104fd5586eec6699fe1ddb0b38cca), this will cause launch time delays
+[29Dec2024 00:42:39.480] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_fletching is being run through DFU (hash 55e215fa1537038de029626772e20798bcf62d5a5ef96636493d5614d4acaa44), this will cause launch time delays
+[29Dec2024 00:42:39.481] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_grindstone is being run through DFU (hash 112816deb1f4698773e041b743350e9a8efd79978c7c335a69499b3bccbe6b7f), this will cause launch time delays
+[29Dec2024 00:42:39.481] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_house1 is being run through DFU (hash 04678a78fc1e26695f1ea047f3a3559e8e3eb663f60158b6ee90c405cbc0e362), this will cause launch time delays
+[29Dec2024 00:42:39.483] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_house2 is being run through DFU (hash 8d9bdeed6f8cb1597bbbadf63a613a733f8ebc10909db6d24710e6f3cc700a7c), this will cause launch time delays
+[29Dec2024 00:42:39.483] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_house3 is being run through DFU (hash 5e4b786cc06280f40d8343fdf7248eb2149b52c7197a574d1fdfa37ff7c719eb), this will cause launch time delays
+[29Dec2024 00:42:39.484] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_house4 is being run through DFU (hash 488922cdb7a34673049ed390272321e752c0a031c256c7d63a6a63ab5adaa4c9), this will cause launch time delays
+[29Dec2024 00:42:39.485] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_house5 is being run through DFU (hash ac60931be54391c03a0b3813490ecaaf1228f1e2cdfab4a28f95a5e0adc385b2), this will cause launch time delays
+[29Dec2024 00:42:39.486] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_house7 is being run through DFU (hash ee4b94c6c5ab5a9ce232e966aaf1e514c4a3ed1fc48997911be3da4d6c055d53), this will cause launch time delays
+[29Dec2024 00:42:39.487] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_loom is being run through DFU (hash 26028d170ea9c0d3cbafc801a063c63a38357cc9d6977e207ca5bdf199b55eeb), this will cause launch time delays
+[29Dec2024 00:42:39.488] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_smithing is being run through DFU (hash e34549626c4e79de8c29ca8703aafadcf9f3e7f350239c9a4d3d3f38d1f03db1), this will cause launch time delays
+[29Dec2024 00:42:39.489] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_smoker is being run through DFU (hash 3c3ca820df04f29b3f63043b966f4392d2ebf68fdf8e61b78c4e0a0bbe809751), this will cause launch time delays
+[29Dec2024 00:42:39.490] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_stonecutter is being run through DFU (hash 8a5c19bf4e8c0cfde8da8b6467c11e5268aecb3ed07d40fa7e22304637e42b7d), this will cause launch time delays
+[29Dec2024 00:42:39.491] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_empty is being run through DFU (hash 88e3f04a96e790f3860b59cae81b7ff577c67751199502adde12db3216a5532a), this will cause launch time delays
+[29Dec2024 00:42:39.499] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_decoration1 is being run through DFU (hash 8a2ac6dc52c0565a5c3be024e7fc9eb6d879efc8e7944efbd748322827cd4638), this will cause launch time delays
+[29Dec2024 00:42:39.499] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_decoration3 is being run through DFU (hash eee273cda6d78538a896c97a102d90ce968f2b9d374737b9267c69cf7036af86), this will cause launch time delays
+[29Dec2024 00:42:39.499] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_decoration2 is being run through DFU (hash bc76ca9f80a637bec86f9ffdc9f12defc2245d00c31c0140e7346620c6d45464), this will cause launch time delays
+[29Dec2024 00:42:39.500] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_decoration4 is being run through DFU (hash 03e9dd9e730809d5c7aeb56622c4a4fccce1a51749c2f7a29c2178ea14b0859b), this will cause launch time delays
+[29Dec2024 00:42:39.507] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_path8 is being run through DFU (hash 8a75ab1f0a0d457db76e3ea91e908d5738a55f318bd0038b6a6fc65c28d0efee), this will cause launch time delays
+[29Dec2024 00:42:39.521] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_path3 is being run through DFU (hash a901fa5992794ac29961f51a8cebd7a3dbabebfeec6ad95a96e2e39e95622d3f), this will cause launch time delays
+[29Dec2024 00:42:39.522] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_path9 is being run through DFU (hash 02c5ba984fb78ded385ec952271237602bc1e28b89d8479fcb50a6f18b29d84b), this will cause launch time delays
+[29Dec2024 00:42:39.528] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_villager_nitwit is being run through DFU (hash 2861768ec5416defd7e8a917c93162ab5900eaa6c2c5c8a9f25b21861cac712c), this will cause launch time delays
+[29Dec2024 00:42:39.529] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_villager_baby is being run through DFU (hash 827ac63f038c181e004ffb0ee2dc426711e0e870a390b68c347dc1c76ac79cdf), this will cause launch time delays
+[29Dec2024 00:42:39.552] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_path2 is being run through DFU (hash e6a0a8051e97692741d695777ce0f540a890c773451cec55cbb5963e54f56583), this will cause launch time delays
+[29Dec2024 00:42:39.559] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_path1 is being run through DFU (hash a2398a5edea2d7c56f7dc97dc1f9ea2d136decf5d2253212f4905b0464fd42df), this will cause launch time delays
+[29Dec2024 00:42:39.563] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_path7 is being run through DFU (hash 8d995e1b64ab04667e8d91d44df0215e843115b2c8c46a612402c1f66508b991), this will cause launch time delays
+[29Dec2024 00:42:39.564] [Worker-Main-21/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_path6 is being run through DFU (hash 28c99d662666ad2d73bd1ef9ce72fb8bc3a12878af0421d59e0139ddc08ffb19), this will cause launch time delays
+[29Dec2024 00:42:40.518] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[29Dec2024 00:42:58.500] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[29Dec2024 00:43:00.485] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[29Dec2024 00:43:01.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:01.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:01.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:01.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:02.545] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:02.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:02.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:02.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:03.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:03.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:03.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:04.300] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:04.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:04.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:04.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:04.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:04.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:05.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:05.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:05.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:06.802] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[29Dec2024 00:43:08.908] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[29Dec2024 00:43:08.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[29Dec2024 00:43:08.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[29Dec2024 00:43:08.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[29Dec2024 00:43:08.916] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Dec2024 00:43:08.916] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[29Dec2024 00:43:08.916] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Dec2024 00:43:08.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:08.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:13.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:13.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:13.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:17.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:17.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:17.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:17.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:19.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:19.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:19.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:20.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:20.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:21.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:22.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:22.590] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[29Dec2024 00:43:23.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:23.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:23.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:23.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:23.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:23.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:26.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:26.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:26.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:26.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:28.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:30.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:30.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:30.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:33.098] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:33.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:33.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:34.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:34.499] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:34.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:35.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:35.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:35.666] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[29Dec2024 00:43:36.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:37.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:37.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:37.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:38.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:38.438] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:38.438] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:39.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:39.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:39.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:41.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:41.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:41.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:42.476] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:42.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:42.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:42.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:42.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:43.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:43.665] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_heart
+[29Dec2024 00:43:43.668] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lc
+[29Dec2024 00:43:43.669] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sb
+[29Dec2024 00:43:43.673] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_c
+[29Dec2024 00:43:43.674] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sc
+[29Dec2024 00:43:43.675] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_b
+[29Dec2024 00:43:43.676] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_3
+[29Dec2024 00:43:43.678] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_5
+[29Dec2024 00:43:43.679] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_1
+[29Dec2024 00:43:43.681] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_6
+[29Dec2024 00:43:43.683] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_4
+[29Dec2024 00:43:43.685] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_5
+[29Dec2024 00:43:43.687] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_2
+[29Dec2024 00:43:43.689] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_1
+[29Dec2024 00:43:43.692] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_2
+[29Dec2024 00:43:43.694] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_4
+[29Dec2024 00:43:43.704] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_3
+[29Dec2024 00:43:43.713] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_1
+[29Dec2024 00:43:43.724] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_2
+[29Dec2024 00:43:43.728] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_3
+[29Dec2024 00:43:43.729] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_4
+[29Dec2024 00:43:43.732] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_3
+[29Dec2024 00:43:43.735] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_1
+[29Dec2024 00:43:43.737] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_2
+[29Dec2024 00:43:43.738] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_hallway_lock
+[29Dec2024 00:43:43.744] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_c
+[29Dec2024 00:43:43.746] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lb
+[29Dec2024 00:43:43.746] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_c
+[29Dec2024 00:43:43.747] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_srb
+[29Dec2024 00:43:43.748] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_srb
+[29Dec2024 00:43:43.749] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_b
+[29Dec2024 00:43:43.749] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sa
+[29Dec2024 00:43:43.750] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_a
+[29Dec2024 00:43:43.751] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sra
+[29Dec2024 00:43:43.752] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sa
+[29Dec2024 00:43:43.752] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sb
+[29Dec2024 00:43:43.753] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sra
+[29Dec2024 00:43:43.754] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_srb
+[29Dec2024 00:43:43.755] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_src
+[29Dec2024 00:43:43.756] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sra
+[29Dec2024 00:43:43.757] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_src
+[29Dec2024 00:43:43.758] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sc
+[29Dec2024 00:43:43.760] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sa
+[29Dec2024 00:43:43.761] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_a
+[29Dec2024 00:43:43.761] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_b
+[29Dec2024 00:43:43.762] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_a
+[29Dec2024 00:43:43.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:43.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:46.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:46.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:46.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:47.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:47.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:47.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:47.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:47.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:47.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:47.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:48.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:48.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:48.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:48.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:48.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:48.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:49.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-24, z=321}
+[29Dec2024 00:43:49.903] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:49.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:50.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:52.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:52.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:54.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:54.740] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:55.788] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:55.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:56.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:56.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:57.836] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:57.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:58.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:58.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:58.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:43:59.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:43:59.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:00.226] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:00.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:01.288] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:01.289] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:01.289] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:02.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:02.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:02.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:03.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:03.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:03.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:03.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:03.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:04.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:04.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:06.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:06.538] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:07.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:07.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:08.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:08.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:09.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:09.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:10.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:10.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:10.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:10.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:11.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:11.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:11.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:12.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:12.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:13.141] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[29Dec2024 00:44:19.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:20.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:20.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:20.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:21.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:21.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:22.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:22.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:33.652] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[29Dec2024 00:44:33.652] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[29Dec2024 00:44:33.652] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[29Dec2024 00:44:33.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[29Dec2024 00:44:33.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[29Dec2024 00:44:33.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[29Dec2024 00:44:33.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[29Dec2024 00:44:33.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[29Dec2024 00:44:33.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[29Dec2024 00:44:33.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:33.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:34.541] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:34.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:35.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:35.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:35.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:37.096] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[29Dec2024 00:44:38.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:39.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:39.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:41.501] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[29Dec2024 00:44:41.506] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[29Dec2024 00:44:41.512] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[29Dec2024 00:44:41.518] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[29Dec2024 00:44:41.523] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[29Dec2024 00:44:41.528] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[29Dec2024 00:44:42.764] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[29Dec2024 00:44:42.765] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[29Dec2024 00:44:42.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[29Dec2024 00:44:42.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[29Dec2024 00:44:42.768] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[29Dec2024 00:44:42.768] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[29Dec2024 00:44:42.769] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[29Dec2024 00:44:42.769] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[29Dec2024 00:44:42.770] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[29Dec2024 00:44:47.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:47.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:49.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:49.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:55.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:55.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:55.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Amateur Archaeologist]
+[29Dec2024 00:44:56.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:56.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:56.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:56.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:58.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:58.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:44:58.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:44:58.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:00.132] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:00.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:29.600] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs
+[29Dec2024 00:45:29.617] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_lock
+[29Dec2024 00:45:30.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 00:45:30.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 00:45:37.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:37.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:38.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:38.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:38.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:38.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:39.743] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:39.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:39.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Hammer Time!]
+[29Dec2024 00:45:41.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:41.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:41.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:41.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:41.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:42.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:42.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:42.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:42.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:42.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:42.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:42.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:42.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:43.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:43.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:45.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:45.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:46.631] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:46.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:46.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:47.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:47.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:47.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:48.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:48.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:48.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:49.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:49.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:49.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:50.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:50.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:50.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:50.631] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:50.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:50.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:51.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:51.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:51.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:51.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:52.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:52.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:45:52.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:52.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:53.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:54.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:55.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:56.993] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:58.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:45:59.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:01.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:04.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:06.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/138943, l='ServerLevel[world]', x=2539.34, y=-14.00, z=520.10] died, message: 'Unemployed was shot by Pillager'
+[29Dec2024 00:46:08.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:25.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:25.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:25.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:27.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:27.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:27.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:27.684] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:28.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:28.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:28.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:29.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:29.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:29.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:29.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:29.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:29.754] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:29.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:29.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:30.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:30.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:30.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:30.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:30.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:31.685] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:31.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:31.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:32.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:32.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:32.836] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:32.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:33.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:33.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:33.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:33.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:35.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:35.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:36.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:37.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:37.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:39.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:39.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:40.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:44.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:44.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:51.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[29Dec2024 00:46:51.778] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/top
+[29Dec2024 00:46:53.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:53.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:53.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:53.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:53.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:53.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:54.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:54.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:54.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:55.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:55.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:55.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:55.788] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:55.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:55.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:56.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:46:56.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:46:56.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:02.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:02.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:03.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:03.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:06.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:06.685] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:07.279] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:07.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:07.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:07.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:09.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:09.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:10.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:10.646] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Dec2024 00:47:26.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:27.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:28.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:43.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:43.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:43.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:43.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:43.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:44.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:44.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:44.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:44.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:44.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:45.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:45.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.784] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:45.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:46.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:46.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:47:46.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:46.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:46.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:47:49.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Take Aim, Chaps!]
+[29Dec2024 00:48:09.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:09.640] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:10.179] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:10.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:10.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:10.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:10.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:11.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:11.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:11.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:12.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:12.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:12.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:12.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:12.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:12.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:17.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:17.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:29.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:29.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:29.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:30.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:30.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:38.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:38.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:38.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:38.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:38.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:38.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:38.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:38.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:39.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:39.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:39.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:39.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:40.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:40.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:40.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:40.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:40.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:41.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:42.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:43.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:43.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:43.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:43.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:43.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:43.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:44.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:44.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:45.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:45.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:46.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:46.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:46.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:46.880] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:46.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:46.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:49.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:49.632] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:51.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:51.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:51.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:53.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:53.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:54.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:55.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:57.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:57.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:59.387] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:48:59.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:48:59.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:00.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:00.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:00.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:02.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:02.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:02.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:05.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:07.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:07.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:07.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:07.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:07.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:07.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:08.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:08.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:09.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:09.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:10.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:11.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:11.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:11.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:11.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:11.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:12.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:12.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:12.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:12.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:12.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:12.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:13.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:13.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:13.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:13.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:14.132] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:14.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:14.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:14.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:14.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:14.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:19.143] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:19.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:19.799] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:21.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:21.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:21.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:22.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:22.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:22.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:22.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:22.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:23.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:23.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:23.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:24.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:49:24.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:49:24.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
