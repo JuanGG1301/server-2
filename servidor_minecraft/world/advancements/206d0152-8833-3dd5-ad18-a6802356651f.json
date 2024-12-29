@@ -71,6 +71,7 @@
       "minecraft:taiga": "2024-12-28 17:01:26 +0000",
       "minecraft:frozen_river": "2024-12-28 18:05:21 +0000",
       "quark:glimmering_weald": "2024-12-29 19:45:39 +0000",
+      "minecraft:birch_forest": "2024-12-29 20:01:59 +0000",
       "minecraft:beach": "2024-12-28 18:02:41 +0000",
       "minecraft:river": "2024-12-28 16:32:16 +0000",
       "minecraft:snowy_plains": "2024-12-29 02:52:51 +0000",
@@ -83,6 +84,7 @@
       "minecraft:windswept_forest": "2024-12-28 17:50:09 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-28 17:02:13 +0000",
       "minecraft:snowy_beach": "2024-12-29 02:50:26 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-29 20:02:26 +0000",
       "minecraft:plains": "2024-12-28 16:35:51 +0000"
     },
     "done": false
@@ -4074,6 +4076,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-29 19:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-29 20:06:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2024-12-29 20:05:27 +0000"
     },
     "done": true
   },
