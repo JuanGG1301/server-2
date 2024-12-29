@@ -19753,3 +19753,331 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Dec2024 00:28:10.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [29Dec2024 00:28:10.689] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
 [29Dec2024 00:28:12.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Dec2024 00:28:25.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[29Dec2024 00:28:25.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[29Dec2024 00:28:25.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[29Dec2024 00:28:25.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[29Dec2024 00:28:26.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[29Dec2024 00:28:26.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Disme A Dozen]
+[29Dec2024 00:28:36.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Dec2024 00:28:48.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:48.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:48.611] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:49.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:49.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:49.562] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:50.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:50.577] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:50.577] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:51.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:52.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:52.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:52.663] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:53.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:53.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:53.885] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:54.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:54.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:54.986] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:56.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:56.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:56.253] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:57.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:57.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:57.487] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:58.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:28:58.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:28:58.976] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:28:59.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:00.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:00.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:01.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:01.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:01.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:02.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:02.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:02.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:02.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:02.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:03.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:03.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:03.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:03.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:03.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:04.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:04.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:04.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:06.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:06.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:29:06.060] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[29Dec2024 00:29:07.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:29:08.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[29Dec2024 00:29:19.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[29Dec2024 00:29:19.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[29Dec2024 00:29:19.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[29Dec2024 00:29:32.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2
+[29Dec2024 00:29:36.081] [Server thread/INFO] [Scaling Health/]: Blight Grizzly Bear was killed by polloxsolo
+[29Dec2024 00:29:45.590] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 00:30:05.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[29Dec2024 00:30:05.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[29Dec2024 00:30:05.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[29Dec2024 00:30:21.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:21.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:22.238] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:28.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:28.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:29.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:29.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:30.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 00:30:30.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 00:30:30.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:30.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:32.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:34.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:34.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:35.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:36.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:36.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:37.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:37.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:38.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:39.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:40.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:40.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:41.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:41.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:30:41.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:30:41.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:31:12.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[29Dec2024 00:31:22.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Dec2024 00:31:35.577] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_17
+[29Dec2024 00:32:21.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[29Dec2024 00:32:21.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[29Dec2024 00:32:21.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[29Dec2024 00:32:21.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[29Dec2024 00:32:21.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[29Dec2024 00:32:21.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[29Dec2024 00:32:21.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[29Dec2024 00:32:21.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[29Dec2024 00:32:21.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[29Dec2024 00:32:21.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[29Dec2024 00:32:21.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[29Dec2024 00:32:21.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[29Dec2024 00:32:21.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[29Dec2024 00:32:21.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[29Dec2024 00:32:21.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[29Dec2024 00:32:21.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[29Dec2024 00:32:21.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[29Dec2024 00:32:21.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[29Dec2024 00:32:21.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[29Dec2024 00:32:21.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[29Dec2024 00:32:21.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[29Dec2024 00:32:21.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[29Dec2024 00:32:21.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[29Dec2024 00:32:21.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[29Dec2024 00:32:21.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[29Dec2024 00:32:26.743] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6b
+[29Dec2024 00:32:52.176] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-879, y=-21, z=3690}
+[29Dec2024 00:32:57.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[29Dec2024 00:32:59.150] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-879, y=-21, z=3690}
+[29Dec2024 00:32:59.151] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-868, y=-21, z=3691}
+[29Dec2024 00:33:04.144] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-868, y=-21, z=3691}
+[29Dec2024 00:33:08.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[29Dec2024 00:33:08.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_1
+[29Dec2024 00:33:08.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[29Dec2024 00:33:08.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[29Dec2024 00:33:08.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[29Dec2024 00:33:08.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[29Dec2024 00:33:08.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[29Dec2024 00:33:08.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[29Dec2024 00:33:08.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[29Dec2024 00:33:08.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[29Dec2024 00:33:08.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[29Dec2024 00:33:08.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[29Dec2024 00:33:08.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[29Dec2024 00:33:08.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[29Dec2024 00:33:08.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[29Dec2024 00:33:08.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[29Dec2024 00:33:08.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[29Dec2024 00:33:08.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[29Dec2024 00:33:08.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[29Dec2024 00:33:08.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[29Dec2024 00:33:08.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[29Dec2024 00:33:08.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[29Dec2024 00:33:08.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[29Dec2024 00:33:08.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[29Dec2024 00:33:08.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[29Dec2024 00:33:08.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[29Dec2024 00:33:08.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[29Dec2024 00:33:08.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[29Dec2024 00:33:08.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[29Dec2024 00:33:08.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[29Dec2024 00:33:08.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[29Dec2024 00:33:08.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[29Dec2024 00:33:52.090] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[29Dec2024 00:33:52.102] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[29Dec2024 00:33:52.113] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[29Dec2024 00:33:52.120] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:fishing_hut/fishing_hut_spawner_0 is being run through DFU (hash 47995b7d455eb5166033a6276249e6e9868d45362c7e7ea440b61bcfdf002229), this will cause launch time delays
+[29Dec2024 00:34:06.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9
+[29Dec2024 00:34:11.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[29Dec2024 00:34:50.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[29Dec2024 00:34:50.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[29Dec2024 00:34:50.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[29Dec2024 00:34:50.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[29Dec2024 00:34:50.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[29Dec2024 00:34:51.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[29Dec2024 00:34:52.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[29Dec2024 00:35:06.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[29Dec2024 00:35:30.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 00:35:30.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 00:35:30.872] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[29Dec2024 00:35:30.872] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[29Dec2024 00:35:30.873] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[29Dec2024 00:35:30.873] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[29Dec2024 00:35:30.874] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[29Dec2024 00:35:30.874] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[29Dec2024 00:35:30.874] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[29Dec2024 00:35:30.875] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[29Dec2024 00:35:30.875] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[29Dec2024 00:35:30.875] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[29Dec2024 00:35:30.876] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[29Dec2024 00:35:30.876] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[29Dec2024 00:35:30.876] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[29Dec2024 00:35:30.877] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[29Dec2024 00:35:30.877] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[29Dec2024 00:35:30.878] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[29Dec2024 00:35:30.878] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[29Dec2024 00:35:30.879] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[29Dec2024 00:35:30.879] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[29Dec2024 00:35:30.879] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[29Dec2024 00:35:30.880] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[29Dec2024 00:35:30.880] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[29Dec2024 00:35:30.881] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[29Dec2024 00:35:30.881] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[29Dec2024 00:35:30.881] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[29Dec2024 00:35:30.882] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[29Dec2024 00:35:30.882] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[29Dec2024 00:35:30.882] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[29Dec2024 00:35:30.883] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[29Dec2024 00:35:30.883] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[29Dec2024 00:35:30.883] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[29Dec2024 00:35:30.884] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[29Dec2024 00:35:30.884] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[29Dec2024 00:35:30.884] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[29Dec2024 00:35:30.885] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[29Dec2024 00:35:30.885] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[29Dec2024 00:35:30.885] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[29Dec2024 00:35:30.886] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[29Dec2024 00:35:30.886] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[29Dec2024 00:35:30.886] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[29Dec2024 00:35:30.887] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[29Dec2024 00:35:30.887] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[29Dec2024 00:35:30.888] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[29Dec2024 00:35:30.888] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[29Dec2024 00:35:30.888] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[29Dec2024 00:35:30.888] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[29Dec2024 00:35:30.889] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[29Dec2024 00:35:30.889] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[29Dec2024 00:35:30.889] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[29Dec2024 00:35:30.889] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[29Dec2024 00:35:30.890] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[29Dec2024 00:35:30.890] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[29Dec2024 00:35:30.890] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[29Dec2024 00:35:30.891] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[29Dec2024 00:35:30.891] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[29Dec2024 00:35:30.891] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[29Dec2024 00:35:30.892] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[29Dec2024 00:35:30.892] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[29Dec2024 00:35:30.892] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[29Dec2024 00:35:30.893] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[29Dec2024 00:35:30.893] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[29Dec2024 00:35:30.893] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[29Dec2024 00:35:30.894] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[29Dec2024 00:35:30.894] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[29Dec2024 00:35:30.894] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[29Dec2024 00:35:30.895] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[29Dec2024 00:35:30.895] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[29Dec2024 00:35:30.895] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[29Dec2024 00:35:30.896] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[29Dec2024 00:35:30.902] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[29Dec2024 00:35:30.908] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[29Dec2024 00:35:30.908] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[29Dec2024 00:35:30.908] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[29Dec2024 00:35:30.909] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[29Dec2024 00:35:30.909] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[29Dec2024 00:35:30.910] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[29Dec2024 00:35:30.910] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[29Dec2024 00:35:30.911] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[29Dec2024 00:35:30.911] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[29Dec2024 00:35:30.917] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[29Dec2024 00:35:30.918] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[29Dec2024 00:35:30.918] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[29Dec2024 00:35:30.919] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[29Dec2024 00:35:30.924] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[29Dec2024 00:35:30.928] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[29Dec2024 00:35:30.932] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[29Dec2024 00:35:30.933] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[29Dec2024 00:35:30.933] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[29Dec2024 00:35:30.933] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[29Dec2024 00:35:30.934] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[29Dec2024 00:35:30.941] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[29Dec2024 00:35:30.942] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[29Dec2024 00:35:30.942] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[29Dec2024 00:35:30.943] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[29Dec2024 00:35:30.943] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[29Dec2024 00:35:30.943] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[29Dec2024 00:35:30.944] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[29Dec2024 00:35:30.945] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[29Dec2024 00:35:30.946] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[29Dec2024 00:35:30.946] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[29Dec2024 00:35:30.947] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[29Dec2024 00:35:30.947] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[29Dec2024 00:35:30.947] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[29Dec2024 00:35:30.948] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[29Dec2024 00:35:30.948] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[29Dec2024 00:35:30.949] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[29Dec2024 00:35:30.949] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[29Dec2024 00:35:30.950] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[29Dec2024 00:36:18.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[29Dec2024 00:36:18.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[29Dec2024 00:36:21.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:21.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:36:21.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:25.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:25.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:36:36.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:36.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:36:36.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:36.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:40.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:40.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:43.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:43.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:36:43.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:36:44.145] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:24.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:24.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:24.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:37:25.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:25.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:37:26.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:26.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:37:26.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:26.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:37:27.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:27.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:37:30.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:30.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:37:31.132] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:37:31.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:38:00.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:38:00.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:38:00.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:38:01.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:38:01.492] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:38:04.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:38:04.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:38:05.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:38:05.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Dec2024 00:38:07.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Dec2024 00:38:08.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
