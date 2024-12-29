@@ -101,3 +101,86 @@
 [29Dec2024 00:45:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Hammer Time!]
 [29Dec2024 00:46:06.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/138943, l='ServerLevel[world]', x=2539.34, y=-14.00, z=520.10] died, message: 'Unemployed was shot by Pillager'
 [29Dec2024 00:47:49.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Take Aim, Chaps!]
+[29Dec2024 00:49:39.312] [Server thread/INFO] [Scaling Health/]: Blight Spider has died
+[29Dec2024 00:50:16.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Hunt and Gather]
+[29Dec2024 00:50:33.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has reached the goal [This Belongs in a Museum]
+[29Dec2024 00:55:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Diamonds!]
+[29Dec2024 00:57:41.947] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[29Dec2024 00:57:41.948] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[29Dec2024 00:57:41.948] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[29Dec2024 00:57:41.954] [Worker-Main-20/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[29Dec2024 00:57:41.954] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[29Dec2024 00:57:41.954] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[29Dec2024 00:57:41.955] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[29Dec2024 00:57:41.955] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[29Dec2024 00:57:41.955] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[29Dec2024 00:57:41.955] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[29Dec2024 00:57:41.955] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[29Dec2024 00:57:41.955] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[29Dec2024 00:57:41.955] [Worker-Main-20/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[29Dec2024 00:57:41.956] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[29Dec2024 00:57:41.957] [Worker-Main-20/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[29Dec2024 00:57:41.957] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[29Dec2024 00:57:41.957] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[29Dec2024 00:57:41.991] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[29Dec2024 00:57:42.104] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[29Dec2024 00:57:42.104] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[29Dec2024 00:57:42.104] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[29Dec2024 00:57:42.104] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[29Dec2024 00:57:42.104] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[29Dec2024 00:57:42.104] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Dec2024 00:57:44.307] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[29Dec2024 00:57:44.311] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[29Dec2024 00:57:44.312] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[29Dec2024 00:57:44.312] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[29Dec2024 00:57:44.312] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[29Dec2024 00:58:02.161] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[29Dec2024 00:58:02.161] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[29Dec2024 00:58:02.167] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[29Dec2024 00:58:02.475] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[29Dec2024 00:58:03.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:57331] logged in with entity id 148704 at (-764.3000000119209, 212.0, 4913.300000011921)
+[29Dec2024 00:58:03.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[29Dec2024 00:58:03.713] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 00:58:03.839] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[29Dec2024 00:58:10.371] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[29Dec2024 00:58:10.372] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[29Dec2024 00:58:10.513] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[29Dec2024 00:58:10.514] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[29Dec2024 00:58:11.150] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[29Dec2024 00:58:11.151] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[29Dec2024 00:58:11.151] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[29Dec2024 00:58:11.152] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[29Dec2024 00:58:11.152] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Dec2024 00:58:11.152] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[29Dec2024 00:58:11.153] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Dec2024 00:58:56.262] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-24, z=321}
+[29Dec2024 00:59:07.937] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[29Dec2024 00:59:07.937] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[29Dec2024 00:59:07.938] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[29Dec2024 00:59:07.938] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[29Dec2024 00:59:07.938] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[29Dec2024 00:59:07.939] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[29Dec2024 00:59:07.939] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[29Dec2024 00:59:07.940] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[29Dec2024 00:59:07.940] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[29Dec2024 00:59:07.940] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[29Dec2024 00:59:07.940] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[29Dec2024 00:59:07.941] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[29Dec2024 00:59:07.941] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[29Dec2024 00:59:07.941] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[29Dec2024 00:59:07.942] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[29Dec2024 00:59:07.942] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[29Dec2024 00:59:07.942] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[29Dec2024 00:59:07.943] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[29Dec2024 00:59:07.943] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[29Dec2024 00:59:07.943] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[29Dec2024 00:59:07.943] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[29Dec2024 00:59:07.943] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[29Dec2024 00:59:07.944] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[29Dec2024 00:59:07.944] [Worker-Main-21/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[29Dec2024 00:59:07.944] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[29Dec2024 00:59:07.944] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[29Dec2024 00:59:07.944] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[29Dec2024 00:59:07.944] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[29Dec2024 00:59:07.944] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[29Dec2024 00:59:07.944] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}

@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-29 00:53:23 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-29 00:45:20 +0000"
@@ -671,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-29 00:46:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-28 23:59:34 +0000"
@@ -849,6 +861,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-28 23:43:28 +0000",
       "minecraft:spider": "2024-12-28 23:44:15 +0000",
+      "quark:forgotten": "2024-12-29 00:50:05 +0000",
       "minecraft:witch": "2024-12-29 00:43:36 +0000",
       "minecraft:zombie": "2024-12-28 23:45:01 +0000"
     },
@@ -1001,6 +1014,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-28 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-29 00:50:33 +0000"
     },
     "done": true
   },
@@ -1448,6 +1467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 00:49:12 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-29 00:27:16 +0000",
@@ -1509,6 +1534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 00:49:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-28 23:46:37 +0000"
@@ -1530,6 +1561,12 @@
   "spartanweaponry:recipes/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2024-12-28 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-29 00:49:12 +0000"
     },
     "done": true
   },
@@ -2097,6 +2134,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-29 00:53:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2024-12-28 23:24:05 +0000"
@@ -2472,6 +2515,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-29 00:49:12 +0000"
     },
     "done": true
   },
