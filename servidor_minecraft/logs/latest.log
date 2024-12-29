@@ -1963,3 +1963,68 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29Dec2024 05:07:09.684] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
 [29Dec2024 05:07:09.780] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
 [29Dec2024 05:07:14.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> [x:-1996, y:62, z:6409, dim:minecraft:overworld]
+[29Dec2024 05:07:29.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Dec2024 05:08:04.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20585ms or 411 ticks behind
+[29Dec2024 05:08:39.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19365ms or 387 ticks behind
+[29Dec2024 05:09:11.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17298ms or 345 ticks behind
+[29Dec2024 05:09:41.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15427ms or 308 ticks behind
+[29Dec2024 05:10:00.305] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 05:10:00.305] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 05:10:00.306] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 05:10:06.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Frosted Prison]
+[29Dec2024 05:10:12.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15611ms or 312 ticks behind
+[29Dec2024 05:10:30.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[29Dec2024 05:10:33.057] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=245}
+[29Dec2024 05:10:33.061] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=244}
+[29Dec2024 05:10:33.061] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-24, z=244}
+[29Dec2024 05:10:33.062] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-25, z=248}
+[29Dec2024 05:10:33.062] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=113, y=-23, z=244}
+[29Dec2024 05:10:33.063] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=112, y=-24, z=244}
+[29Dec2024 05:10:51.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6465ms or 129 ticks behind
+[29Dec2024 05:11:03.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:03.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:03.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:03.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:04.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:05.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:05.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:05.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:05.268] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 05:11:11.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
+[29Dec2024 05:11:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> [x:-2451, y:100, z:6573, dim:minecraft:overworld]
+[29Dec2024 05:11:31.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5297ms or 105 ticks behind
+[29Dec2024 05:11:44.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Tunnel Treasures]
+[29Dec2024 05:11:50.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[29Dec2024 05:12:00.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maiky0910 lost connection: Disconnected
+[29Dec2024 05:12:00.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 left the game
+[29Dec2024 05:12:07.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[29Dec2024 05:12:35.893] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by OGTSsus
+[29Dec2024 05:12:44.323] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[29Dec2024 05:12:46.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[29Dec2024 05:13:11.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Dec2024 05:13:29.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[29Dec2024 05:13:29.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> @catacyclims
+[29Dec2024 05:13:35.567] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=245}
+[29Dec2024 05:13:35.567] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=244}
+[29Dec2024 05:13:35.567] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-24, z=244}
+[29Dec2024 05:13:35.568] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-25, z=248}
+[29Dec2024 05:13:35.568] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=113, y=-23, z=244}
+[29Dec2024 05:13:35.568] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=112, y=-24, z=244}
+[29Dec2024 05:15:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> lleguen
+[29Dec2024 05:15:19.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Dec2024 05:15:36.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
+[29Dec2024 05:15:49.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Spooky Scary Skeleton]
+[29Dec2024 05:18:49.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 05:19:31.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Darielo_XD) moved too quickly! -6.2631383134416865,0.0,8.302592145768358
+[29Dec2024 05:21:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Frosted Prison]
+[29Dec2024 05:22:33.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Take Aim]
+[29Dec2024 05:24:25.938] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[29Dec2024 05:27:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Frosted Prison]
+[29Dec2024 05:27:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Frosted Prison]

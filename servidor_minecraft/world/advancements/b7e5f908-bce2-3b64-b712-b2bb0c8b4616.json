@@ -3467,77 +3467,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
+      "in_better_zombie_dungeon": "2024-12-29 04:32:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "spartanweaponry:longsword": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
+      "has_longsword": "2024-12-29 04:36:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
+      "ex": "2024-12-29 04:51:08 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 05:04:01 +0000"
-    },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
@@ -3569,12 +3515,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-29 04:51:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-29 05:01:37 +0000"
@@ -3593,12 +3533,6 @@
     },
     "done": true
   },
-  "spartanweaponry:longsword": {
-    "criteria": {
-      "has_longsword": "2024-12-29 04:36:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-29 05:01:37 +0000"
@@ -3611,9 +3545,15 @@
     },
     "done": true
   },
-  "betterdungeons:zombie_dungeon": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-12-29 04:32:59 +0000"
+      "shot_arrow": "2024-12-29 05:22:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-29 05:21:18 +0000"
     },
     "done": true
   },
