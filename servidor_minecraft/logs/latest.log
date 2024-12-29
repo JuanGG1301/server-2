@@ -1742,3 +1742,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29Dec2024 03:48:27.131] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
 [29Dec2024 03:53:23.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
 [29Dec2024 03:53:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[29Dec2024 03:57:32.782] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by Darielo_XD
+[29Dec2024 03:57:35.720] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Darielo_XD})
+[29Dec2024 03:58:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo was shocked to death by OGTSsus
+[29Dec2024 03:58:02.053] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Dec2024 03:58:02.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Dec2024 03:58:18.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OGTSsus> zzz
+[29Dec2024 03:58:33.364] [Server thread/INFO] [Scaling Health/]: Blight Phantom was killed by OGTSsus
+[29Dec2024 04:04:53.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus moved too quickly! 2.8903667628765106,-0.12129684053920187,13.698385953903198
+[29Dec2024 04:06:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darielo_XD> DANI
+[29Dec2024 04:09:49.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maiky0910 lost connection: Disconnected
+[29Dec2024 04:09:49.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 left the game
+[29Dec2024 04:11:10.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OGTSsus> zzz

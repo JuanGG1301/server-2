@@ -73,6 +73,7 @@
       "minecraft:beach": "2024-12-28 18:02:41 +0000",
       "minecraft:river": "2024-12-28 16:32:16 +0000",
       "minecraft:snowy_plains": "2024-12-29 02:52:51 +0000",
+      "minecraft:stony_shore": "2024-12-29 04:07:58 +0000",
       "minecraft:snowy_taiga": "2024-12-29 02:49:44 +0000",
       "minecraft:swamp": "2024-12-28 16:36:04 +0000",
       "minecraft:cold_ocean": "2024-12-29 03:11:29 +0000",
@@ -663,6 +664,8 @@
       "apple": "2024-12-28 16:41:40 +0000",
       "bread": "2024-12-28 16:46:30 +0000",
       "golden_apple": "2024-12-28 17:15:55 +0000",
+      "melon_slice": "2024-12-29 03:54:04 +0000",
+      "mushroom_stew": "2024-12-29 04:02:40 +0000",
       "carrot": "2024-12-29 03:40:55 +0000"
     },
     "done": false
@@ -3318,6 +3321,85 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-29 04:09:47 +0000",
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-29 04:09:14 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-29 04:02:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-29 03:50:15 +0000"
@@ -3438,6 +3520,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-29 04:02:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-29 03:46:21 +0000"
@@ -3513,6 +3601,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-29 03:34:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-29 04:02:40 +0000"
     },
     "done": true
   },
