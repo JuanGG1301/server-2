@@ -1728,6 +1728,7 @@
       "bread": "2024-12-28 17:33:17 +0000",
       "golden_apple": "2024-12-28 19:00:47 +0000",
       "rotten_flesh": "2024-12-28 23:37:33 +0000",
+      "golden_carrot": "2024-12-29 02:57:55 +0000",
       "mushroom_stew": "2024-12-28 17:44:54 +0000"
     },
     "done": false
@@ -4395,6 +4396,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-29 02:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-29 02:16:16 +0000"
@@ -4458,6 +4465,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-29 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2024-12-29 02:42:16 +0000"
     },
     "done": true
   },
@@ -4707,6 +4720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-29 02:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-29 02:16:15 +0000"
@@ -4861,6 +4880,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-29 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-29 02:52:23 +0000"
     },
     "done": true
   },

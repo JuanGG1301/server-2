@@ -2637,12 +2637,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-29 02:40:45 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2024-12-29 01:49:18 +0000"
@@ -3228,9 +3222,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-29 01:07:16 +0000",
+      "minecraft:beach": "2024-12-29 03:00:06 +0000",
       "minecraft:river": "2024-12-28 23:27:30 +0000",
       "minecraft:dripstone_caves": "2024-12-29 00:01:12 +0000",
+      "minecraft:cold_ocean": "2024-12-29 03:01:01 +0000",
       "minecraft:forest": "2024-12-28 23:23:13 +0000",
+      "minecraft:ocean": "2024-12-29 03:00:26 +0000",
       "minecraft:plains": "2024-12-28 23:29:19 +0000"
     },
     "done": false
@@ -3612,6 +3609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-29 02:52:21 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-29 01:28:37 +0000"
@@ -3681,6 +3684,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2024-12-28 23:54:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-29 02:46:49 +0000"
     },
     "done": true
   },
