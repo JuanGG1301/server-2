@@ -76,7 +76,9 @@
       "minecraft:sunflower_plains": "2024-12-28 19:49:38 +0000",
       "minecraft:birch_forest": "2024-12-28 17:02:54 +0000",
       "minecraft:windswept_hills": "2024-12-29 01:30:09 +0000",
+      "minecraft:bamboo_jungle": "2024-12-29 21:52:07 +0000",
       "minecraft:badlands": "2024-12-29 20:14:55 +0000",
+      "minecraft:savanna_plateau": "2024-12-29 21:43:58 +0000",
       "minecraft:beach": "2024-12-28 17:44:07 +0000",
       "minecraft:dark_forest": "2024-12-29 20:01:42 +0000",
       "minecraft:mangrove_swamp": "2024-12-28 17:28:06 +0000",
@@ -5146,9 +5148,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-29 21:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
     },
     "done": true
   },
@@ -5176,9 +5202,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "white": "2024-12-29 21:42:42 +0000",
+      "indigo": "2024-12-29 21:42:31 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-29 21:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-29 21:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-29 21:59:56 +0000"
     },
     "done": true
   },
