@@ -1183,3 +1183,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 20:29:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Chompy]
 [30Dec2024 20:33:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Surge Protector]
 [30Dec2024 20:33:13.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Surge Protector]
+[30Dec2024 20:38:13.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo was kicked for floating too long!
+[30Dec2024 20:38:13.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo lost connection: Flying is not enabled on this server
+[30Dec2024 20:38:13.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo left the game
+[30Dec2024 20:39:59.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.246.234.75:37525] logged in with entity id 29653 at (-353.08545385019363, 64.79673560066871, -316.8306527987587)
+[30Dec2024 20:39:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[30Dec2024 20:39:59.176] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[30Dec2024 20:39:59.239] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)

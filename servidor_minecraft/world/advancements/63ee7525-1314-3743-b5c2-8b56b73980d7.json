@@ -5861,15 +5861,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-30 20:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-30 20:33:13 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_cooked_chicken": "2024-12-30 20:10:30 +0000"
+      "has_dandelion": "2024-12-30 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 20:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-30 20:40:11 +0000"
     },
     "done": true
   },
