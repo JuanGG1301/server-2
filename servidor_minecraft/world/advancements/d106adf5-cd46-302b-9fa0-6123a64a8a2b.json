@@ -1002,6 +1002,7 @@
       "minecraft:hoglin": "2024-12-29 23:58:16 +0000",
       "minecraft:vindicator": "2024-12-28 18:26:19 +0000",
       "minecraft:spider": "2024-12-28 18:31:55 +0000",
+      "minecraft:piglin_brute": "2024-12-30 00:15:57 +0000",
       "minecraft:creeper": "2024-12-28 17:57:55 +0000",
       "minecraft:evoker": "2024-12-28 21:48:59 +0000",
       "minecraft:phantom": "2024-12-29 02:00:04 +0000",
@@ -4334,6 +4335,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2024-12-30 00:16:10 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/warped_moldy_meat": {
+    "criteria": {
+      "has_sirloin": "2024-12-30 00:17:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-29 23:53:24 +0000"
@@ -4427,6 +4440,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-29 23:53:46 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2024-12-30 00:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-30 00:19:15 +0000"
     },
     "done": true
   },
@@ -4532,6 +4557,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-30 00:16:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-29 23:46:10 +0000"
@@ -4571,6 +4602,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-29 23:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-30 00:19:15 +0000"
     },
     "done": true
   },
@@ -4616,6 +4653,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2024-12-30 00:19:55 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2024-12-29 23:53:46 +0000"
@@ -4644,6 +4687,18 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-29 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2024-12-30 00:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-30 00:16:59 +0000"
     },
     "done": true
   },

@@ -1062,6 +1062,7 @@
       "minecraft:piglin_brute": "2024-12-29 23:26:51 +0000",
       "minecraft:creeper": "2024-12-28 22:42:09 +0000",
       "minecraft:evoker": "2024-12-28 23:43:25 +0000",
+      "minecraft:slime": "2024-12-30 00:14:56 +0000",
       "minecraft:phantom": "2024-12-28 23:44:46 +0000",
       "minecraft:wither_skeleton": "2024-12-29 00:09:03 +0000",
       "minecraft:husk": "2024-12-28 22:27:28 +0000",
@@ -4088,6 +4089,12 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2024-12-30 00:13:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2024-12-30 00:14:52 +0000"
     },
     "done": true
   },
