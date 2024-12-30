@@ -4618,7 +4618,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-12-29 04:54:51 +0000"
+      "minecraft:crimson_forest": "2024-12-29 04:54:51 +0000",
+      "minecraft:basalt_deltas": "2024-12-30 01:00:32 +0000"
     },
     "done": false
   },
@@ -5162,6 +5163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 01:00:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-30 00:52:38 +0000"
@@ -5194,15 +5201,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 01:00:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2024-12-30 01:00:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-30 00:36:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 01:00:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-30 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-30 01:01:09 +0000"
     },
     "done": true
   },
@@ -5218,9 +5249,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 01:00:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:greatsword": {
     "criteria": {
       "has_greatsword": "2024-12-30 00:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 01:00:49 +0000"
     },
     "done": true
   },
@@ -5254,6 +5297,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-30 01:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-12-30 00:36:58 +0000"
@@ -5269,6 +5318,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2024-12-30 00:36:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2024-12-30 01:02:29 +0000"
     },
     "done": true
   },
@@ -5293,6 +5348,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-30 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-30 01:00:49 +0000"
     },
     "done": true
   },

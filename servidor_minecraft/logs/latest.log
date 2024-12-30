@@ -406,3 +406,97 @@
 [30Dec2024 00:58:11.128] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{oscarbigw})
 [30Dec2024 00:58:13.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has completed the challenge [Plumber's Plunder]
 [30Dec2024 00:58:28.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has reached the goal [Pocket Edition Alpha]
+[30Dec2024 00:58:43.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/350235, l='ServerLevel[world]', x=-338.40, y=-20.00, z=1120.70] died: Toxic Slime was killed
+[30Dec2024 00:58:53.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/345923, l='ServerLevel[world]', x=-556.80, y=33.50, z=1387.70] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 00:59:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Hidden in the Depths]
+[30Dec2024 00:59:05.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-517, y=57, z=1315} BlockPos{x=-518, y=57, z=1314}
+[30Dec2024 00:59:05.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-517, y=57, z=1315} BlockPos{x=-518, y=57, z=1314}
+[30Dec2024 00:59:05.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-517, y=57, z=1315} BlockPos{x=-518, y=57, z=1314}
+[30Dec2024 00:59:11.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/351037, l='ServerLevel[world]', x=-308.69, y=-20.00, z=1248.92] died: Toxic Slime was killed
+[30Dec2024 00:59:12.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/351054, l='ServerLevel[world]', x=-385.74, y=-20.00, z=1190.74] died: Toxic Slime was killed
+[30Dec2024 00:59:13.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-530, y=58, z=1324} BlockPos{x=-527, y=57, z=1323}
+[30Dec2024 00:59:17.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/352897, l='ServerLevel[world]', x=-391.66, y=33.31, z=1211.69] died: Toxic Slime was slain by marmotas
+[30Dec2024 00:59:26.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus lost connection: Timed out
+[30Dec2024 00:59:26.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus left the game
+[30Dec2024 00:59:47.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Pipe Dream]
+[30Dec2024 00:59:52.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/351473, l='ServerLevel[world]', x=-358.48, y=-20.00, z=1258.88] died: Toxic Slime was killed
+[30Dec2024 00:59:52.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/351474, l='ServerLevel[world]', x=-301.88, y=-20.00, z=1221.26] died: Toxic Slime was killed
+[30Dec2024 00:59:57.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/351539, l='ServerLevel[world]', x=-308.99, y=-20.00, z=1212.73] died: Toxic Slime was killed
+[30Dec2024 00:59:57.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/351540, l='ServerLevel[world]', x=-382.89, y=-20.00, z=1188.98] died: Toxic Slime was killed
+[30Dec2024 01:00:29.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/349164, l='ServerLevel[world]', x=-618.70, y=36.20, z=1397.30] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:00:36.008] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49f0b3b3[id=<null>,name=OGTSsus,properties={},legacy=false] (/127.235.183.86:38645) lost connection: Disconnected
+[30Dec2024 01:00:37.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/349304, l='ServerLevel[world]', x=-626.70, y=32.89, z=1399.70] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:00:42.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OGTSsus[/127.235.183.86:36071] logged in with entity id 354422 at (-390.0510872253746, 43.0, 1219.279912603081)
+[30Dec2024 01:00:42.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus joined the game
+[30Dec2024 01:00:42.387] [Server thread/INFO] [Jade/]: Syncing config to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[30Dec2024 01:00:42.527] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[30Dec2024 01:00:47.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Pipe Dream]
+[30Dec2024 01:00:47.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Straddle My Ol' Saddle]
+[30Dec2024 01:00:48.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Straddle My Ol' Saddle]
+[30Dec2024 01:00:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Pipe Dream]
+[30Dec2024 01:01:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [UNLIMITED POWER!!!]
+[30Dec2024 01:01:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maiky0910> '
+[30Dec2024 01:01:12.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus lost connection: Timed out
+[30Dec2024 01:01:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus left the game
+[30Dec2024 01:01:15.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/352793, l='ServerLevel[world]', x=-516.87, y=-20.00, z=1215.21] died: Toxic Slime was killed
+[30Dec2024 01:01:34.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=8, z=1390} BlockPos{x=-611, y=9, z=1394}
+[30Dec2024 01:01:34.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=8, z=1390} BlockPos{x=-611, y=9, z=1394}
+[30Dec2024 01:01:34.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=8, z=1390} BlockPos{x=-611, y=9, z=1394}
+[30Dec2024 01:01:44.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-609, y=15, z=1397} BlockPos{x=-610, y=16, z=1397}
+[30Dec2024 01:01:48.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has reached the goal [Ceci n'est pas un blaze]
+[30Dec2024 01:01:48.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/349040, l='ServerLevel[world]', x=-559.69, y=53.57, z=1423.42] died: Pipeline Sentry was slain by Maiky0910
+[30Dec2024 01:01:53.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OGTSsus[/127.235.183.86:40477] logged in with entity id 355481 at (-390.0510872253746, 43.0, 1219.279912603081)
+[30Dec2024 01:01:53.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus joined the game
+[30Dec2024 01:01:53.050] [Server thread/INFO] [Jade/]: Syncing config to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[30Dec2024 01:01:53.210] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to OGTSsus (2107e5b1-e58b-3d23-9fa3-3398b22623ba)
+[30Dec2024 01:01:56.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD moved wrongly!
+[30Dec2024 01:02:03.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/353620, l='ServerLevel[world]', x=-500.24, y=-20.00, z=1389.44] died: Toxic Slime was killed
+[30Dec2024 01:02:09.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Pipe Dream]
+[30Dec2024 01:02:16.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [UNLIMITED POWER!!!]
+[30Dec2024 01:02:18.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has reached the goal [Ceci n'est pas un blaze]
+[30Dec2024 01:02:18.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/345504, l='ServerLevel[world]', x=-547.34, y=34.00, z=1367.96] died: Pipeline Sentry was slain by OGTSsus
+[30Dec2024 01:02:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [UNLIMITED POWER!!!]
+[30Dec2024 01:02:40.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has completed the challenge [Plumber's Plunder]
+[30Dec2024 01:03:00.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/345019, l='ServerLevel[world]', x=-556.66, y=34.00, z=1350.06] died: Pipeline Sentry was slain by OGTSsus
+[30Dec2024 01:03:00.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/354326, l='ServerLevel[world]', x=-496.26, y=-20.00, z=1360.97] died: Toxic Slime was killed
+[30Dec2024 01:04:02.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/345018, l='ServerLevel[world]', x=-534.18, y=34.91, z=1328.31] died: Pipeline Sentry was slain by OGTSsus
+[30Dec2024 01:04:17.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/346064, l='ServerLevel[world]', x=-555.30, y=51.00, z=1373.30] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:04:22.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/345926, l='ServerLevel[world]', x=-558.70, y=51.20, z=1370.30] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:04:28.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/345505, l='ServerLevel[world]', x=-557.70, y=51.20, z=1361.30] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:04:32.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Timed out
+[30Dec2024 01:04:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
+[30Dec2024 01:04:44.366] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:the_nether at BlockPos{x=-569, y=52, z=1372} as the loot table 'incendium:steam/rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[30Dec2024 01:05:13.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marmotas[/127.186.142.178:42783] logged in with entity id 357155 at (-598.4699126482969, 33.0, 1387.5525271977551)
+[30Dec2024 01:05:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas joined the game
+[30Dec2024 01:05:13.949] [Server thread/INFO] [Jade/]: Syncing config to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[30Dec2024 01:05:14.129] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to marmotas (b7e5f908-bce2-3b64-b712-b2bb0c8b4616)
+[30Dec2024 01:05:31.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356307, l='ServerLevel[world]', x=-520.74, y=-20.00, z=1290.31] died: Toxic Slime was killed
+[30Dec2024 01:05:45.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/349160, l='ServerLevel[world]', x=-593.70, y=60.00, z=1345.59] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:05:51.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has completed the challenge [Plumber's Plunder]
+[30Dec2024 01:05:59.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Hot Stuff]
+[30Dec2024 01:06:04.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has completed the challenge [Centennial]
+[30Dec2024 01:06:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has completed the challenge [Plumber's Plunder]
+[30Dec2024 01:06:49.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has completed the challenge [Plumber's Plunder]
+[30Dec2024 01:07:31.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:31.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=41, z=1290} BlockPos{x=-541, y=40, z=1290}
+[30Dec2024 01:07:39.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/357735, l='ServerLevel[world]', x=-629.30, y=61.20, z=1670.70] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:07:40.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=48, z=1275} BlockPos{x=-537, y=47, z=1276}
+[30Dec2024 01:07:40.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=48, z=1275} BlockPos{x=-537, y=47, z=1276}
+[30Dec2024 01:07:40.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=47, z=1275} BlockPos{x=-537, y=47, z=1276}
+[30Dec2024 01:07:40.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=47, z=1275} BlockPos{x=-537, y=47, z=1276}
+[30Dec2024 01:07:40.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-537, y=47, z=1275} BlockPos{x=-537, y=47, z=1276}
+[30Dec2024 01:07:41.025] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:the_nether at BlockPos{x=-632, y=61, z=1668} as the loot table 'incendium:steam/rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[30Dec2024 01:07:42.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/358401, l='ServerLevel[world]', x=-529.38, y=50.00, z=1266.29] died: Toxic Slime was slain by Maiky0910
+[30Dec2024 01:07:45.227] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:the_nether at BlockPos{x=-643, y=61, z=1668} as the loot table 'incendium:steam/rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[30Dec2024 01:07:57.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/358577, l='ServerLevel[world]', x=-493.46, y=53.00, z=1229.58] died: Toxic Slime was slain by Maiky0910
+[30Dec2024 01:08:09.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/357734, l='ServerLevel[world]', x=-643.70, y=59.00, z=1663.30] died: Pipeline Sentry was slain by oscarbigw
+[30Dec2024 01:08:24.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maiky0910 lost connection: Disconnected
+[30Dec2024 01:08:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 left the game
+[30Dec2024 01:08:36.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/357540, l='ServerLevel[world]', x=-557.62, y=-20.00, z=1260.77] died: Toxic Slime was killed
