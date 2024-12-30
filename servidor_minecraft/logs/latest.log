@@ -680,3 +680,9 @@
 [30Dec2024 01:29:00.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Disconnected
 [30Dec2024 01:29:00.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
 [30Dec2024 01:29:13.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[30Dec2024 01:30:07.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD was kicked for floating too long!
+[30Dec2024 01:30:07.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Flying is not enabled on this server
+[30Dec2024 01:30:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[30Dec2024 01:30:29.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus lost connection: Disconnected
+[30Dec2024 01:30:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus left the game
+[30Dec2024 01:34:24.219] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by polloxsolo
