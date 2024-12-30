@@ -1751,6 +1751,7 @@
       "golden_apple": "2024-12-28 19:00:47 +0000",
       "rotten_flesh": "2024-12-28 23:37:33 +0000",
       "golden_carrot": "2024-12-29 02:57:55 +0000",
+      "enchanted_golden_apple": "2024-12-30 18:52:06 +0000",
       "mushroom_stew": "2024-12-28 17:44:54 +0000",
       "cooked_salmon": "2024-12-29 22:14:17 +0000",
       "carrot": "2024-12-29 03:56:02 +0000"
@@ -5816,9 +5817,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-30 18:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-30 18:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-30 18:46:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-30 18:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-30 18:46:29 +0000"
     },
     "done": true
   },
