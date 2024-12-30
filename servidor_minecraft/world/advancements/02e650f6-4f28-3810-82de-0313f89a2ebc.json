@@ -1157,6 +1157,7 @@
       "minecraft:piglin_brute": "2024-12-29 23:26:52 +0000",
       "minecraft:creeper": "2024-12-28 19:13:24 +0000",
       "minecraft:evoker": "2024-12-28 19:14:54 +0000",
+      "minecraft:slime": "2024-12-30 00:48:37 +0000",
       "minecraft:phantom": "2024-12-29 02:06:11 +0000",
       "minecraft:witch": "2024-12-28 16:46:29 +0000",
       "minecraft:wither_skeleton": "2024-12-28 17:16:12 +0000",
@@ -5161,9 +5162,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-30 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-30 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-30 00:49:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2024-12-30 00:49:58 +0000",
+      "junk": "2024-12-30 00:49:15 +0000",
+      "treasure": "2024-12-30 00:52:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-30 00:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-30 00:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 00:49:17 +0000"
     },
     "done": true
   },
@@ -5182,6 +5221,30 @@
   "spartanweaponry:greatsword": {
     "criteria": {
       "has_greatsword": "2024-12-30 00:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2024-12-30 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2024-12-30 00:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-30 00:49:19 +0000"
     },
     "done": true
   },
@@ -5218,6 +5281,18 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-30 00:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-30 00:50:00 +0000"
     },
     "done": true
   },

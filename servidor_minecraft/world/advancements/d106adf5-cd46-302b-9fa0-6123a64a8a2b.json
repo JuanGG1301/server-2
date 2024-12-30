@@ -999,12 +999,14 @@
       "minecraft:pillager": "2024-12-28 18:29:23 +0000",
       "minecraft:skeleton": "2024-12-28 17:42:54 +0000",
       "minecraft:ravager": "2024-12-28 23:43:08 +0000",
+      "minecraft:ghast": "2024-12-30 00:51:36 +0000",
       "minecraft:hoglin": "2024-12-29 23:58:16 +0000",
       "minecraft:vindicator": "2024-12-28 18:26:19 +0000",
       "minecraft:spider": "2024-12-28 18:31:55 +0000",
       "minecraft:piglin_brute": "2024-12-30 00:15:57 +0000",
       "minecraft:creeper": "2024-12-28 17:57:55 +0000",
       "minecraft:evoker": "2024-12-28 21:48:59 +0000",
+      "minecraft:slime": "2024-12-30 00:52:07 +0000",
       "minecraft:phantom": "2024-12-29 02:00:04 +0000",
       "minecraft:witch": "2024-12-28 17:44:52 +0000",
       "minecraft:wither_skeleton": "2024-12-29 01:14:01 +0000",
@@ -4735,6 +4737,38 @@
   "spartanweaponry:pike": {
     "criteria": {
       "has_pike": "2024-12-30 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2024-12-30 00:51:43 +0000",
+      "junk": "2024-12-30 00:52:27 +0000",
+      "treasure": "2024-12-30 00:50:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-30 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-30 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2024-12-30 00:50:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2024-12-30 00:51:52 +0000"
     },
     "done": true
   },
