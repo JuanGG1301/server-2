@@ -842,6 +842,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-29 00:00:25 +0000",
+      "cooked_mutton": "2024-12-30 00:27:47 +0000",
       "cooked_beef": "2024-12-29 00:13:24 +0000",
       "baked_potato": "2024-12-29 01:01:17 +0000",
       "apple": "2024-12-28 23:27:50 +0000",
@@ -1515,6 +1516,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-29 02:01:02 +0000",
+      "minecraft:pillager": "2024-12-30 00:26:32 +0000",
       "minecraft:skeleton": "2024-12-28 23:43:28 +0000",
       "minecraft:hoglin": "2024-12-29 02:26:18 +0000",
       "minecraft:piglin_brute": "2024-12-29 02:14:59 +0000",
@@ -4044,77 +4046,71 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_ham": "2024-12-30 00:28:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_ancient_anima": "2024-12-30 00:41:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "voluntary_exile": "2024-12-30 00:26:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "bosses_of_mass_destruction:recipes/mob_ward": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_ancient_anima": "2024-12-30 00:41:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_any_ingredient": "2024-12-30 00:29:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_basalt": "2024-12-30 00:38:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "bosses_of_mass_destruction:recipes/levitation_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_ancient_anima": "2024-12-30 00:41:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_ink_sac": "2024-12-30 00:29:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "farmersdelight:main/get_ham": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "ham": "2024-12-30 00:28:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_basalt": "2024-12-30 00:38:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
+      "has_basalt": "2024-12-30 00:38:15 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 00:24:53 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

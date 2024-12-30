@@ -279,3 +279,31 @@
 [30Dec2024 00:25:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [No Longer Short-Staffed]
 [30Dec2024 00:25:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Quite the Walking Stick]
 [30Dec2024 00:26:32.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Voluntary Exile]
+[30Dec2024 00:27:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [No Longer Short-Staffed]
+[30Dec2024 00:27:48.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [Quite the Walking Stick]
+[30Dec2024 00:30:43.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [A Cut Above the Rest]
+[30Dec2024 00:30:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Pike Off!]
+[30Dec2024 00:31:27.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Timed out
+[30Dec2024 00:31:27.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[30Dec2024 00:31:43.218] [Server thread/INFO] [Scaling Health/]: Blight Tusklin was killed by marmotas
+[30Dec2024 00:31:50.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Blade of the Samurai]
+[30Dec2024 00:32:35.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:49323] logged in with entity id 335608 at (-2243.9468571399166, 75.04804154681106, 8931.149775834)
+[30Dec2024 00:32:35.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[30Dec2024 00:32:35.915] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 00:32:36.140] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 00:36:54.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: oscarbigw lost connection: Disconnected
+[30Dec2024 00:36:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw left the game
+[30Dec2024 00:37:11.398] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@250de8e1[id=<null>,name=oscarbigw,properties={},legacy=false] (/127.167.240.13:53893) lost connection: Disconnected
+[30Dec2024 00:37:14.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: oscarbigw[/127.167.240.13:42037] logged in with entity id 339510 at (-2493.155744648924, 123.0, 8051.664275398063)
+[30Dec2024 00:37:14.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw joined the game
+[30Dec2024 00:37:14.803] [Server thread/INFO] [Jade/]: Syncing config to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[30Dec2024 00:37:14.903] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to oscarbigw (d106adf5-cd46-302b-9fa0-6123a64a8a2b)
+[30Dec2024 00:41:15.864] [Server thread/INFO] [Scaling Health/]: Blight Phantom has died
+[30Dec2024 00:44:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [Pike Off!]
+[30Dec2024 00:44:35.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [A Cut Above the Rest]
+[30Dec2024 00:46:05.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9727ms or 194 ticks behind
+[30Dec2024 00:46:05.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polloxsolo moved too quickly! 3.0350499877234824,6.166109260938214,-7.487835056681433
+[30Dec2024 00:46:20.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Incendium]
+[30Dec2024 00:46:20.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [We Need to Go Deeper]
+[30Dec2024 00:46:35.769] [Server thread/INFO] [Scaling Health/]: Blight Crimson Mosquito was killed by oscarbigw
+[30Dec2024 00:47:16.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Nightmare Fuel]

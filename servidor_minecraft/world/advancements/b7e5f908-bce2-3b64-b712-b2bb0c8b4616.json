@@ -4056,6 +4056,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-12-30 00:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-30 00:12:39 +0000"
@@ -4089,6 +4095,12 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2024-12-30 00:13:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-30 00:27:48 +0000"
     },
     "done": true
   },
