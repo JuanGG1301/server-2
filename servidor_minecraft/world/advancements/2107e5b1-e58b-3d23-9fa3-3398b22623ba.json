@@ -4311,93 +4311,27 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:30:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+      "requirement": "2024-12-30 01:02:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
-      "has_yellow_terracotta": "2024-12-30 01:10:15 +0000"
+      "requirement": "2024-12-30 01:02:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+      "requirement": "2024-12-30 01:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-30 01:05:46 +0000"
     },
     "done": true
   },
@@ -4407,15 +4341,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-30 01:17:35 +0000"
+      "lava_bucket": "2024-12-30 01:05:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+  "lootr:100loot": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+      "loot_stat": "2024-12-30 01:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-30 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-30 01:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-30 01:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2024-12-30 01:10:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-12-30 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2024-12-30 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-30 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 01:17:35 +0000"
     },
     "done": true
   },
@@ -4431,81 +4419,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/root": {
-    "criteria": {
-      "requirement": "2024-12-30 01:02:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2024-12-30 01:17:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/enter_castle": {
-    "criteria": {
-      "requirement": "2024-12-30 01:11:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/kill_sentry": {
-    "criteria": {
-      "requirement": "2024-12-30 01:02:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-30 01:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_glazed_terracotta": {
-    "criteria": {
-      "has_green_terracotta": "2024-12-30 01:09:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-30 01:05:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2024-12-30 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2024-12-30 01:05:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
     },
     "done": true
   },
@@ -4533,39 +4449,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
-    "criteria": {
-      "has_lime_terracotta": "2024-12-30 01:10:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-30 01:17:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
-    "criteria": {
-      "has_blazing_eye": "2024-12-30 01:26:08 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/unlimited_power": {
-    "criteria": {
-      "requirement": "2024-12-30 01:02:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
     },
     "done": true
   },
@@ -4581,45 +4467,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2024-12-30 01:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2024-12-30 01:06:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/root": {
-    "criteria": {
-      "requirement": "2024-12-30 01:11:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2024-12-30 01:17:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2024-12-30 01:09:56 +0000"
     },
     "done": true
   },
@@ -4629,15 +4479,189 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-30 01:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-30 01:19:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
-      "has_polished_blackstone": "2024-12-30 01:17:35 +0000"
+      "has_blazing_eye": "2024-12-30 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-12-30 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-30 02:54:56 +0000"
     },
     "done": true
   },
