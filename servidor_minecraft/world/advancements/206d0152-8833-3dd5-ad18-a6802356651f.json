@@ -74,6 +74,7 @@
       "quark:glimmering_weald": "2024-12-29 19:45:39 +0000",
       "minecraft:cherry_grove": "2024-12-29 22:10:00 +0000",
       "minecraft:birch_forest": "2024-12-29 20:01:59 +0000",
+      "minecraft:windswept_hills": "2024-12-30 01:51:45 +0000",
       "minecraft:beach": "2024-12-28 18:02:41 +0000",
       "minecraft:dark_forest": "2024-12-29 23:05:58 +0000",
       "minecraft:river": "2024-12-28 16:32:16 +0000",
@@ -92,6 +93,7 @@
       "minecraft:ocean": "2024-12-29 20:15:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-28 17:02:13 +0000",
       "minecraft:snowy_beach": "2024-12-29 02:50:26 +0000",
+      "minecraft:windswept_savanna": "2024-12-30 01:43:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 20:02:26 +0000",
       "minecraft:meadow": "2024-12-29 21:48:02 +0000",
       "minecraft:plains": "2024-12-28 16:35:51 +0000"
@@ -771,6 +773,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-30 01:40:02 +0000",
       "in_better_spider_dungeon": "2024-12-28 16:37:14 +0000",
       "in_better_monster_room": "2024-12-29 19:22:18 +0000"
     },
@@ -5615,6 +5618,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-30 01:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-30 01:31:45 +0000"
@@ -5624,6 +5633,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-30 01:22:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-30 01:54:03 +0000"
     },
     "done": true
   },
@@ -5678,6 +5693,12 @@
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2024-12-30 01:26:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-30 01:40:23 +0000"
     },
     "done": true
   },
