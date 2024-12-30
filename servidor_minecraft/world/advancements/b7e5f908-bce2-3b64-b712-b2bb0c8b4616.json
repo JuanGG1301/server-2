@@ -3751,6 +3751,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2024-12-30 01:11:12 +0000",
       "incendium:weeping_valley": "2024-12-29 23:05:01 +0000",
       "incendium:toxic_heap": "2024-12-30 00:13:36 +0000"
     },
@@ -3759,6 +3760,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-29 23:08:53 +0000",
+      "minecraft:nether_wastes": "2024-12-30 01:12:11 +0000",
       "minecraft:basalt_deltas": "2024-12-30 01:00:38 +0000"
     },
     "done": false
@@ -4129,33 +4131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
-      "has_magma_cream": "2024-12-30 01:01:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
-    "criteria": {
-      "requirement": "2024-12-30 01:02:40 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2024-12-30 00:59:17 +0000"
+      "has_green_terracotta": "2024-12-30 00:57:30 +0000"
     },
     "done": true
   },
@@ -4166,40 +4144,15 @@
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-30 01:04:16 +0000",
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
+      "incendium:junk": "2024-12-30 00:58:28 +0000"
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/root": {
+  "immersive_armors:recipes/misc/slime": {
     "criteria": {
-      "requirement": "2024-12-30 01:00:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/green_glazed_terracotta": {
-    "criteria": {
-      "has_green_terracotta": "2024-12-30 00:57:30 +0000"
+      "has_item": "2024-12-30 00:59:17 +0000"
     },
     "done": true
   },
@@ -4209,41 +4162,11 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-30 00:59:17 +0000"
     },
     "done": true
-  },
-  "incendium:toxic_heap/nuclear_fusion": {
-    "criteria": {
-      "incendium:junk": "2024-12-30 00:58:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
@@ -4251,17 +4174,41 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
+      "requirement": "2024-12-30 01:00:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 01:04:03 +0000"
+      "has_magma_cream": "2024-12-30 01:01:50 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2024-12-30 01:02:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2024-12-30 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2024-12-30 01:13:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-12-30 01:11:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

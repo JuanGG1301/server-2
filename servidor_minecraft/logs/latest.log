@@ -500,3 +500,133 @@
 [30Dec2024 01:08:24.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maiky0910 lost connection: Disconnected
 [30Dec2024 01:08:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 left the game
 [30Dec2024 01:08:36.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/357540, l='ServerLevel[world]', x=-557.62, y=-20.00, z=1260.77] died: Toxic Slime was killed
+[30Dec2024 01:09:30.360] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/357955, l='ServerLevel[world]', x=-538.26, y=-20.00, z=1289.74] died: Toxic Slime was killed
+[30Dec2024 01:09:33.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/357995, l='ServerLevel[world]', x=-554.74, y=-20.00, z=1282.26] died: Toxic Slime was killed
+[30Dec2024 01:09:33.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/357996, l='ServerLevel[world]', x=-533.12, y=-20.00, z=1250.28] died: Toxic Slime was killed
+[30Dec2024 01:09:42.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/358122, l='ServerLevel[world]', x=-506.06, y=-20.00, z=1226.11] died: Toxic Slime was killed
+[30Dec2024 01:09:49.225] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[30Dec2024 01:09:53.198] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[30Dec2024 01:10:06.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD moved too quickly! 8.466350960168029,-5.906655874165395,2.759230608388407
+[30Dec2024 01:10:12.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/358576, l='ServerLevel[world]', x=-519.79, y=-20.00, z=1216.41] died: Toxic Slime was killed
+[30Dec2024 01:10:14.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/358618, l='ServerLevel[world]', x=-467.74, y=-20.00, z=1300.26] died: Toxic Slime was killed
+[30Dec2024 01:10:57.275] [Server thread/INFO] [Scaling Health/]: Blight Foxhound was killed by oscarbigw
+[30Dec2024 01:11:06.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has made the advancement [The Dust Settles]
+[30Dec2024 01:11:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [The Dust Settles]
+[30Dec2024 01:11:16.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/359212, l='ServerLevel[world]', x=-455.74, y=-20.00, z=1243.26] died: Toxic Slime was killed
+[30Dec2024 01:11:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [The Dust Settles]
+[30Dec2024 01:11:20.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maiky0910[/127.212.150.220:47119] logged in with entity id 361189 at (-492.3373683712283, 54.0, 1300.699999988079)
+[30Dec2024 01:11:20.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 joined the game
+[30Dec2024 01:11:20.866] [Server thread/INFO] [Jade/]: Syncing config to Maiky0910 (206d0152-8833-3dd5-ad18-a6802356651f)
+[30Dec2024 01:11:21.017] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Maiky0910 (206d0152-8833-3dd5-ad18-a6802356651f)
+[30Dec2024 01:11:23.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/360088, l='ServerLevel[world]', x=-346.44, y=35.00, z=1457.01] died: Piglin Paratrooper was slain by Darielo_XD
+[30Dec2024 01:11:49.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [The Dust Settles]
+[30Dec2024 01:11:49.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Strange Biomes]
+[30Dec2024 01:11:58.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has reached the goal [In the Hall of the Piglin King]
+[30Dec2024 01:12:06.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darielo_XD> [x:-324, y:44, z:1504, dim:minecraft:the_nether]
+[30Dec2024 01:12:13.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has reached the goal [In the Hall of the Piglin King]
+[30Dec2024 01:12:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has reached the goal [In the Hall of the Piglin King]
+[30Dec2024 01:12:34.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has reached the goal [In the Hall of the Piglin King]
+[30Dec2024 01:12:36.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360372, l='ServerLevel[world]', x=-343.51, y=36.00, z=1516.51] died: Piglin Knight was slain by Darielo_XD
+[30Dec2024 01:12:40.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360162, l='ServerLevel[world]', x=-341.78, y=36.00, z=1487.52] died: Piglin Knight tried to swim in lava
+[30Dec2024 01:12:54.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360161, l='ServerLevel[world]', x=-324.63, y=37.00, z=1505.90] died: Piglin Knight was slain by Darielo_XD
+[30Dec2024 01:12:59.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/349863, l='ServerLevel[world]', x=-323.44, y=36.00, z=1514.21] died: Piglin Knight was slain by Maiky0910
+[30Dec2024 01:13:00.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-603, y=57, z=1790} BlockPos{x=-601, y=56, z=1790}
+[30Dec2024 01:13:08.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360371, l='ServerLevel[world]', x=-324.08, y=36.00, z=1511.55] died: Piglin Knight was slain by Maiky0910
+[30Dec2024 01:13:29.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/360598, l='ServerLevel[world]', x=-280.48, y=36.00, z=1517.49] died: Piglin Paratrooper was slain by Maiky0910
+[30Dec2024 01:13:42.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/360089, l='ServerLevel[world]', x=-313.68, y=62.00, z=1472.01] died: Piglin Paratrooper was slain by marmotas
+[30Dec2024 01:13:43.978] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360160, l='ServerLevel[world]', x=-312.99, y=62.94, z=1472.01] died: Piglin Knight was slain by marmotas
+[30Dec2024 01:13:46.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360605, l='ServerLevel[world]', x=-259.29, y=35.00, z=1528.33] died: Piglin Knight was slain by Maiky0910
+[30Dec2024 01:13:49.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas has made the advancement [UNLIMITED POWER!!!]
+[30Dec2024 01:13:50.599] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[30Dec2024 01:13:50.617] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[30Dec2024 01:13:50.814] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[30Dec2024 01:13:50.814] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[30Dec2024 01:13:50.929] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by Maiky0910
+[30Dec2024 01:14:12.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360846, l='ServerLevel[world]', x=-306.87, y=36.00, z=1539.87] died: Piglin Knight was slain by Maiky0910
+[30Dec2024 01:14:28.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [The Dust Settles]
+[30Dec2024 01:14:31.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/360597, l='ServerLevel[world]', x=-296.89, y=35.00, z=1528.45] died: Piglin Paratrooper was slain by marmotas
+[30Dec2024 01:14:32.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360847, l='ServerLevel[world]', x=-319.05, y=36.00, z=1545.30] died: Piglin Knight was slain by Maiky0910
+[30Dec2024 01:14:35.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/350051, l='ServerLevel[world]', x=-282.73, y=45.00, z=1514.59] died: Pipeline Sentry was slain by OGTSsus
+[30Dec2024 01:14:39.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:39.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:39.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:39.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:44.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/360357, l='ServerLevel[world]', x=-299.01, y=35.00, z=1528.26] died: Piglin Knight was slain by marmotas
+[30Dec2024 01:14:49.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:49.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:49.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:49.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:49.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:49.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:14:49.620] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:01.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:01.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:01.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:01.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:01.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:01.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:09.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/362088, l='ServerLevel[world]', x=-249.19, y=-20.00, z=1557.81] died: Toxic Slime was killed
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:12.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:25.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Timed out
+[30Dec2024 01:15:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[30Dec2024 01:15:44.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has reached the goal [In the Hall of the Piglin King]
+[30Dec2024 01:15:49.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:59705] logged in with entity id 363761 at (-339.51233438573644, 36.0, 1535.6816551991524)
+[30Dec2024 01:15:49.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[30Dec2024 01:15:49.404] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:15:49.632] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:15:50.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/360165, l='ServerLevel[world]', x=-364.70, y=54.00, z=1494.47] died: Piglin Paratrooper was slain by oscarbigw
+[30Dec2024 01:15:58.014] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:58.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:58.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:58.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:58.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:58.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:58.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:15:58.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:16:14.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/350040, l='ServerLevel[world]', x=-338.62, y=36.00, z=1532.54] died: Piglin Knight was slain by Darielo_XD
+[30Dec2024 01:16:54.205] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/361023, l='ServerLevel[world]', x=-288.16, y=36.00, z=1564.98] died: Piglin Paratrooper was doomed to fall by Maiky0910
+[30Dec2024 01:16:54.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/361024, l='ServerLevel[world]', x=-290.38, y=49.00, z=1559.12] died: Piglin Paratrooper was slain by Maiky0910
+[30Dec2024 01:16:59.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: oscarbigw has made the advancement [Hidden in the Depths]
+[30Dec2024 01:17:01.878] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by oscarbigw
+[30Dec2024 01:17:10.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:10.569] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:10.569] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:16.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/361045, l='ServerLevel[world]', x=-300.50, y=62.00, z=1593.36] died: Piglin Paratrooper was slain by Maiky0910
+[30Dec2024 01:17:20.173] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by oscarbigw
+[30Dec2024 01:17:23.712] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{oscarbigw})
+[30Dec2024 01:17:27.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/350038, l='ServerLevel[world]', x=-321.07, y=45.73, z=1489.47] died: Pipeline Sentry was slain by OGTSsus
+[30Dec2024 01:17:30.962] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:30.963] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:30.963] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:30.963] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:30.963] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:17:38.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD was kicked for floating too long!
+[30Dec2024 01:17:38.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Flying is not enabled on this server
+[30Dec2024 01:17:38.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[30Dec2024 01:17:42.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-303, y=66, z=1600} BlockPos{x=-322, y=54, z=1589}
+[30Dec2024 01:17:43.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-303, y=66, z=1600} BlockPos{x=-325, y=53, z=1592}
+[30Dec2024 01:17:44.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:59659] logged in with entity id 364233 at (-310.0864748872384, 36.71310678619522, 1570.4694011242507)
+[30Dec2024 01:17:44.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[30Dec2024 01:17:44.949] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:17:45.161] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:17:46.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/349864, l='ServerLevel[world]', x=-320.49, y=45.00, z=1515.24] died: Piglin Knight was slain by OGTSsus
+[30Dec2024 01:17:59.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/361047, l='ServerLevel[world]', x=-315.13, y=37.00, z=1577.88] died: Piglin Knight was slain by Darielo_XD
+[30Dec2024 01:18:03.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maiky0910 moved wrongly!
+[30Dec2024 01:18:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maiky0910> a
+[30Dec2024 01:18:17.505] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/361046, l='ServerLevel[world]', x=-310.83, y=36.00, z=1580.54] died: Piglin Knight was burnt to a crisp whilst fighting Darielo_XD
+[30Dec2024 01:18:19.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/361026, l='ServerLevel[world]', x=-307.30, y=35.00, z=1579.70] died: Piglin Knight was slain by oscarbigw
+[30Dec2024 01:18:21.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/361005, l='ServerLevel[world]', x=-334.22, y=36.00, z=1588.53] died: Piglin Knight was slain by Darielo_XD
+[30Dec2024 01:18:25.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/361027, l='ServerLevel[world]', x=-335.30, y=36.88, z=1572.13] died: Piglin Knight was slain by Maiky0910
+[30Dec2024 01:18:29.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/361048, l='ServerLevel[world]', x=-306.15, y=36.00, z=1569.50] died: Piglin Knight was doomed to fall
+[30Dec2024 01:18:34.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/363818, l='ServerLevel[world]', x=-362.78, y=-20.00, z=1509.74] died: Toxic Slime was killed
+[30Dec2024 01:18:45.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/363864, l='ServerLevel[world]', x=-397.38, y=-20.00, z=1661.93] died: Toxic Slime was killed
+[30Dec2024 01:19:00.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Timed out
+[30Dec2024 01:19:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[30Dec2024 01:19:02.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus moved wrongly!

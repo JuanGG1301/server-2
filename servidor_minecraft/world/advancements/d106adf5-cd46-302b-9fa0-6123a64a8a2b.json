@@ -108,10 +108,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-30 01:05:03 +0000",
       "log_spam_fixer": "2024-12-28 17:27:05 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -4650,6 +4649,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2024-12-30 01:14:28 +0000",
       "incendium:weeping_valley": "2024-12-30 00:10:35 +0000",
       "incendium:toxic_heap": "2024-12-30 00:13:06 +0000"
     },
@@ -4846,6 +4846,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-30 01:01:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-12-30 01:14:28 +0000"
     },
     "done": true
   },
