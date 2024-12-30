@@ -5861,6 +5861,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-30 20:33:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-12-30 20:10:30 +0000"

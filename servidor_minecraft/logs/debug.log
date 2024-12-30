@@ -7897,3 +7897,356 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 20:23:54.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [30Dec2024 20:23:55.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [30Dec2024 20:23:55.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:06.513] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:07.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:07.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:09.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 20:24:09.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 20:24:13.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:14.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:15.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:15.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:16.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:16.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:26.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:26.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:26.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:37.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:37.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:38.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:38.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:38.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_15
+[30Dec2024 20:24:38.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:38.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:39.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:39.925] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:40.927] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[30Dec2024 20:24:42.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:42.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:42.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:24:42.999] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2189, y=12, z=1395}
+[30Dec2024 20:24:43.140] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2183, y=12, z=1383}
+[30Dec2024 20:24:43.205] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2139, y=12, z=1391}
+[30Dec2024 20:24:43.547] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2188, y=12, z=1384}
+[30Dec2024 20:24:43.548] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2189, y=12, z=1395}
+[30Dec2024 20:24:43.549] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2183, y=12, z=1383}
+[30Dec2024 20:24:44.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:44.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Dec2024 20:24:44.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Dec2024 20:24:45.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:46.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:46.762] [Server thread/INFO] [Scaling Health/]: Blight Raccoon was killed by polloxsolo
+[30Dec2024 20:24:49.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:24:49.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:25:13.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:13.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:25:13.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:13.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:25:26.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:26.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:25:27.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:32.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:32.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:32.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:33.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:33.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:33.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:25:34.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:25:34.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:03.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:03.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:04.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:04.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:06.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:07.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:07.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:07.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:09.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:12.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[30Dec2024 20:26:13.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:14.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:14.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:18.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:24.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:27.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:29.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:30.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:30.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:33.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:33.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:33.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:33.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:43.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:44.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:44.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:26:44.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:26:51.548] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[30Dec2024 20:26:51.563] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[30Dec2024 20:26:51.572] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[30Dec2024 20:26:51.580] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[30Dec2024 20:27:01.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[30Dec2024 20:27:01.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[30Dec2024 20:27:12.761] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2189, y=12, z=1395}
+[30Dec2024 20:27:13.282] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=-1, z=1409}
+[30Dec2024 20:27:13.283] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2188, y=12, z=1384}
+[30Dec2024 20:27:13.283] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2189, y=12, z=1395}
+[30Dec2024 20:27:13.284] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2183, y=12, z=1383}
+[30Dec2024 20:27:52.785] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:27:52.791] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2183, y=12, z=1383}
+[30Dec2024 20:27:52.803] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:27:52.808] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=12, z=1402}
+[30Dec2024 20:27:52.817] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2139, y=12, z=1391}
+[30Dec2024 20:27:52.818] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=12, z=1402}
+[30Dec2024 20:27:52.818] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=12, z=1392}
+[30Dec2024 20:27:52.830] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=12, z=1392}
+[30Dec2024 20:27:57.572] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2189, y=-1, z=1410}
+[30Dec2024 20:27:57.572] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=-1, z=1416}
+[30Dec2024 20:27:57.573] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2190, y=-1, z=1427}
+[30Dec2024 20:27:57.573] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=-1, z=1409}
+[30Dec2024 20:27:57.593] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:27:57.643] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:27:57.652] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2147, y=-1, z=1427}
+[30Dec2024 20:27:57.670] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2119, y=-1, z=1435}
+[30Dec2024 20:27:57.702] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2119, y=-1, z=1435}
+[30Dec2024 20:27:57.703] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=12, z=1417}
+[30Dec2024 20:27:57.738] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2147, y=-1, z=1427}
+[30Dec2024 20:27:57.739] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2139, y=12, z=1409}
+[30Dec2024 20:27:57.739] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=12, z=1417}
+[30Dec2024 20:27:57.740] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=12, z=1426}
+[30Dec2024 20:27:57.740] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2139, y=12, z=1391}
+[30Dec2024 20:28:02.031] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2177, y=-1, z=1428}
+[30Dec2024 20:28:02.032] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2189, y=-1, z=1410}
+[30Dec2024 20:28:02.032] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=-1, z=1416}
+[30Dec2024 20:28:02.033] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2190, y=-1, z=1427}
+[30Dec2024 20:28:02.045] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:28:02.066] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:28:02.070] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2127, y=-1, z=1428}
+[30Dec2024 20:28:02.070] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2147, y=-1, z=1427}
+[30Dec2024 20:28:02.071] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2142, y=12, z=1439}
+[30Dec2024 20:28:02.091] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2127, y=-1, z=1428}
+[30Dec2024 20:28:02.092] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2147, y=-1, z=1427}
+[30Dec2024 20:28:02.092] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2141, y=12, z=1427}
+[30Dec2024 20:28:02.093] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2132, y=12, z=1429}
+[30Dec2024 20:28:02.094] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2139, y=12, z=1409}
+[30Dec2024 20:28:02.094] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2142, y=12, z=1439}
+[30Dec2024 20:28:02.094] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=12, z=1417}
+[30Dec2024 20:28:02.094] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=12, z=1426}
+[30Dec2024 20:28:02.114] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2109, y=-1, z=1436}
+[30Dec2024 20:28:02.114] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2119, y=-1, z=1435}
+[30Dec2024 20:28:02.127] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2127, y=-1, z=1428}
+[30Dec2024 20:28:02.127] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2109, y=-1, z=1436}
+[30Dec2024 20:28:02.127] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2119, y=-1, z=1435}
+[30Dec2024 20:28:02.128] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=12, z=1417}
+[30Dec2024 20:28:06.531] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2177, y=-1, z=1428}
+[30Dec2024 20:28:06.554] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:28:06.568] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:28:06.572] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2127, y=-1, z=1428}
+[30Dec2024 20:28:06.572] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2147, y=12, z=1442}
+[30Dec2024 20:28:06.572] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2145, y=-8, z=1476}
+[30Dec2024 20:28:06.585] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2127, y=-1, z=1428}
+[30Dec2024 20:28:06.586] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2147, y=12, z=1442}
+[30Dec2024 20:28:06.587] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2141, y=12, z=1427}
+[30Dec2024 20:28:06.587] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2144, y=-8, z=1464}
+[30Dec2024 20:28:06.603] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2127, y=-1, z=1428}
+[30Dec2024 20:28:06.604] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2109, y=-1, z=1436}
+[30Dec2024 20:28:06.604] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2109, y=-1, z=1441}
+[30Dec2024 20:28:06.632] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2109, y=-1, z=1436}
+[30Dec2024 20:28:06.632] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2109, y=-1, z=1441}
+[30Dec2024 20:28:08.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[30Dec2024 20:28:08.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[30Dec2024 20:28:08.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[30Dec2024 20:28:08.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[30Dec2024 20:28:08.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[30Dec2024 20:28:08.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[30Dec2024 20:28:08.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[30Dec2024 20:28:08.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:09.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:13.340] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2194, y=-1, z=1464}
+[30Dec2024 20:28:13.341] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2195, y=-8, z=1479}
+[30Dec2024 20:28:13.378] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2173, y=-1, z=1463}
+[30Dec2024 20:28:13.378] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=-1, z=1462}
+[30Dec2024 20:28:13.379] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2194, y=-1, z=1464}
+[30Dec2024 20:28:13.388] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:28:13.391] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2152, y=-1, z=1457}
+[30Dec2024 20:28:13.391] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2173, y=-1, z=1463}
+[30Dec2024 20:28:13.392] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=-1, z=1462}
+[30Dec2024 20:28:13.402] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=-1, z=1465}
+[30Dec2024 20:28:13.403] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2144, y=-8, z=1464}
+[30Dec2024 20:28:13.404] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=-1, z=1470}
+[30Dec2024 20:28:13.422] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-1, z=1456}
+[30Dec2024 20:28:13.425] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2152, y=-1, z=1457}
+[30Dec2024 20:28:13.426] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=-1, z=1465}
+[30Dec2024 20:28:13.426] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2145, y=-8, z=1476}
+[30Dec2024 20:28:13.427] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2158, y=-8, z=1470}
+[30Dec2024 20:28:16.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:16.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:16.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:28:20.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:21.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:21.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:28:22.284] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2174, y=-1, z=1472}
+[30Dec2024 20:28:22.285] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2194, y=-1, z=1464}
+[30Dec2024 20:28:22.286] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2201, y=-8, z=1484}
+[30Dec2024 20:28:22.300] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2194, y=-1, z=1464}
+[30Dec2024 20:28:22.301] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2200, y=-1, z=1482}
+[30Dec2024 20:28:22.301] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2195, y=-8, z=1479}
+[30Dec2024 20:28:22.303] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2201, y=-1, z=1492}
+[30Dec2024 20:28:22.304] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2202, y=-8, z=1497}
+[30Dec2024 20:28:22.304] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2201, y=-8, z=1484}
+[30Dec2024 20:28:22.333] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2152, y=-1, z=1457}
+[30Dec2024 20:28:22.333] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2174, y=-1, z=1472}
+[30Dec2024 20:28:22.333] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=-1, z=1496}
+[30Dec2024 20:28:22.334] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2159, y=-8, z=1485}
+[30Dec2024 20:28:22.334] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2172, y=-21, z=1484}
+[30Dec2024 20:28:22.335] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2173, y=-21, z=1486}
+[30Dec2024 20:28:22.487] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=-1, z=1470}
+[30Dec2024 20:28:22.487] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2135, y=-1, z=1493}
+[30Dec2024 20:28:22.487] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=-1, z=1496}
+[30Dec2024 20:28:22.488] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2134, y=-1, z=1483}
+[30Dec2024 20:28:22.499] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2152, y=-1, z=1457}
+[30Dec2024 20:28:22.500] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2145, y=-8, z=1476}
+[30Dec2024 20:28:22.500] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2158, y=-8, z=1470}
+[30Dec2024 20:28:22.501] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=-1, z=1496}
+[30Dec2024 20:28:22.502] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2159, y=-8, z=1485}
+[30Dec2024 20:28:23.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:28.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:31.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5b
+[30Dec2024 20:28:34.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:34.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:28:35.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:35.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:28:38.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:38.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:28:38.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:38.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:28:38.851] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2207, y=-8, z=1498}
+[30Dec2024 20:28:38.871] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2194, y=-1, z=1464}
+[30Dec2024 20:28:38.872] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2200, y=-1, z=1482}
+[30Dec2024 20:28:38.872] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2201, y=-1, z=1492}
+[30Dec2024 20:28:38.872] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2202, y=-8, z=1497}
+[30Dec2024 20:28:38.872] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2207, y=-8, z=1498}
+[30Dec2024 20:28:38.873] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2201, y=-8, z=1484}
+[30Dec2024 20:28:38.880] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=-1, z=1496}
+[30Dec2024 20:28:38.881] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2165, y=-8, z=1488}
+[30Dec2024 20:28:38.881] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2166, y=-8, z=1504}
+[30Dec2024 20:28:38.890] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2194, y=-1, z=1464}
+[30Dec2024 20:28:38.890] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2201, y=-8, z=1484}
+[30Dec2024 20:28:38.927] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2158, y=-8, z=1470}
+[30Dec2024 20:28:38.928] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2140, y=-1, z=1496}
+[30Dec2024 20:28:38.929] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2165, y=-8, z=1488}
+[30Dec2024 20:28:48.676] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2165, y=-8, z=1488}
+[30Dec2024 20:28:48.694] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2165, y=-8, z=1488}
+[30Dec2024 20:28:48.695] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2166, y=-8, z=1504}
+[30Dec2024 20:28:48.695] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2183, y=-8, z=1511}
+[30Dec2024 20:28:48.696] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2166, y=-8, z=1512}
+[30Dec2024 20:28:48.696] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2176, y=-8, z=1506}
+[30Dec2024 20:28:48.719] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2183, y=-8, z=1511}
+[30Dec2024 20:28:48.719] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=-8, z=1514}
+[30Dec2024 20:28:48.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:49.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:28:49.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:28:54.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:11.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 20:29:11.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 20:29:15.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[30Dec2024 20:29:17.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Chompy]
+[30Dec2024 20:29:17.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:19.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:19.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:20.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:20.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:36.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:36.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:29:37.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:38.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:41.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:41.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:29:42.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:43.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:29:43.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:29:46.915] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Dec2024 20:30:03.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[30Dec2024 20:30:03.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0
+[30Dec2024 20:30:03.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0
+[30Dec2024 20:30:03.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0
+[30Dec2024 20:30:03.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0
+[30Dec2024 20:30:03.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1
+[30Dec2024 20:30:03.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[30Dec2024 20:30:10.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[30Dec2024 20:30:10.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[30Dec2024 20:30:10.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[30Dec2024 20:30:10.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[30Dec2024 20:30:15.008] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Dec2024 20:30:20.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:30:29.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:30:29.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:30:29.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:30:29.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:30:30.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:30:36.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:30:36.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:30:37.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:30:37.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:30:42.869] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Dec2024 20:31:05.381] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Dec2024 20:31:20.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[30Dec2024 20:31:41.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:31:48.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:31:48.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:31:54.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:03.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:08.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:08.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:32:09.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:12.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:13.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:13.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:32:16.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:31.011] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} -3182 1611 1611 VisualFallingBlockEntity['Falling Dirt'/26430, l='ServerLevel[world]', x=-3181.50, y=59.00, z=1611.50]
+[30Dec2024 20:32:42.659] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} -3188 1597 1597 VisualFallingBlockEntity['Falling Dirt'/26537, l='ServerLevel[world]', x=-3187.50, y=61.00, z=1597.50]
+[30Dec2024 20:32:43.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:46.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:46.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:32:46.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:48.054] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:48.055] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:32:48.055] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:49.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:49.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:32:50.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:50.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:32:50.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:50.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:32:51.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:51.965] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:32:51.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:12.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OGTSsus has made the advancement [Surge Protector]
+[30Dec2024 20:33:13.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo has made the advancement [Surge Protector]
+[30Dec2024 20:33:21.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:21.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:21.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:22.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:23.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:23.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:24.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:24.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:24.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:25.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:25.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:25.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:25.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:25.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:25.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:25.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:25.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:26.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:26.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:27.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:27.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Dec2024 20:33:28.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:33:28.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Dec2024 20:34:11.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 20:34:11.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 20:34:14.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
