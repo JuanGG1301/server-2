@@ -7803,3 +7803,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Dec2024 17:50:36.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
 [30Dec2024 17:50:36.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
 [30Dec2024 17:50:50.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16234, l='ServerLevel[world]', x=25.34, y=65.03, z=58.15] died: Restless Spirit starved to death
+[30Dec2024 17:51:33.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 17:51:33.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 17:56:33.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 17:56:33.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 18:01:33.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 18:01:33.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
