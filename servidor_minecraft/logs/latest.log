@@ -630,3 +630,53 @@
 [30Dec2024 01:19:00.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Timed out
 [30Dec2024 01:19:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
 [30Dec2024 01:19:02.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OGTSsus moved wrongly!
+[30Dec2024 01:19:15.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:51861] logged in with entity id 364566 at (-317.69992749438586, 50.0153590774289, 1582.0646354721325)
+[30Dec2024 01:19:15.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[30Dec2024 01:19:15.709] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:19:15.829] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:20:08.228] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:20:08.228] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:20:14.330] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:20:14.330] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:20:38.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD has reached the goal [Ceci n'est pas un blaze]
+[30Dec2024 01:20:38.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/350053, l='ServerLevel[world]', x=-258.30, y=40.85, z=1537.70] died: Pipeline Sentry was slain by Darielo_XD
+[30Dec2024 01:21:02.211] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:02.211] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:02.211] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:02.211] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:02.211] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:06.765] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:06.765] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:06.765] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:06.765] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:21.981] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:21.981] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:21.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:21.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:24.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> [x:-455, y:37, z:1613, dim:minecraft:the_nether]
+[30Dec2024 01:21:38.358] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:38.358] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:38.358] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:38.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:45.659] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:45.659] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:45.660] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:21:45.660] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30Dec2024 01:23:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <oscarbigw> [x:-455, y:37, z:1613, dim:minecraft:the_nether]
+[30Dec2024 01:25:11.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polloxsolo[/127.12.18.85:57103] logged in with entity id 365652 at (873.9499999880791, 94.0, -5484.2781282446285)
+[30Dec2024 01:25:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polloxsolo joined the game
+[30Dec2024 01:25:11.227] [Server thread/INFO] [Jade/]: Syncing config to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[30Dec2024 01:25:11.395] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (106 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=106, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[30Dec2024 01:25:11.400] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to polloxsolo (63ee7525-1314-3743-b5c2-8b56b73980d7)
+[30Dec2024 01:26:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maiky0910 has made the advancement [Through the Gauntlet]
+[30Dec2024 01:28:02.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darielo_XD lost connection: Timed out
+[30Dec2024 01:28:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD left the game
+[30Dec2024 01:28:33.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darielo_XD[/127.18.233.73:35065] logged in with entity id 367875 at (-442.0519594758309, 21.5, 1609.597667047125)
+[30Dec2024 01:28:33.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darielo_XD joined the game
+[30Dec2024 01:28:33.343] [Server thread/INFO] [Jade/]: Syncing config to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:28:33.587] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Darielo_XD (02e650f6-4f28-3810-82de-0313f89a2ebc)
+[30Dec2024 01:28:56.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maiky0910 moved too quickly! 10.05761540711967,-1.0368107396655404,-0.9443627905609446
+[30Dec2024 01:28:56.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
+[30Dec2024 01:29:00.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marmotas lost connection: Disconnected
+[30Dec2024 01:29:00.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marmotas left the game
+[30Dec2024 01:29:13.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
