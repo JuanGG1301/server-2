@@ -4729,77 +4729,113 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_planks": "2024-12-30 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-30 20:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-30 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 20:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-30 20:03:35 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_planks": "2024-12-30 20:13:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_planks": "2024-12-30 20:13:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_planks": "2024-12-30 20:13:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_planks": "2024-12-30 20:13:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_pumpkin_slice": "2024-12-30 20:16:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "wheat": "2024-12-30 20:03:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_mushroom_stew": "2024-12-30 20:15:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_cabbage": "2024-12-30 20:16:45 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_pumpkin_slice": "2024-12-30 20:16:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
+      "has_planks": "2024-12-30 20:13:43 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-30 19:59:10 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
