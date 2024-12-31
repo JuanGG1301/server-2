@@ -845,9 +845,12 @@
       "cooked_mutton": "2024-12-30 00:27:47 +0000",
       "cooked_beef": "2024-12-29 00:13:24 +0000",
       "baked_potato": "2024-12-29 01:01:17 +0000",
+      "beef": "2024-12-31 00:25:13 +0000",
       "apple": "2024-12-28 23:27:50 +0000",
       "pumpkin_pie": "2024-12-30 01:03:35 +0000",
+      "mutton": "2024-12-31 00:27:04 +0000",
       "bread": "2024-12-29 01:08:31 +0000",
+      "golden_apple": "2024-12-31 00:33:41 +0000",
       "cooked_chicken": "2024-12-29 04:59:38 +0000",
       "cooked_salmon": "2024-12-29 00:01:03 +0000",
       "carrot": "2024-12-30 20:25:25 +0000"
@@ -5073,78 +5076,41 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-31 00:19:43 +0000",
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
+      "has_honeycomb": "2024-12-31 00:56:47 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
+      "has_netherite_scrap": "2024-12-31 01:01:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "farmersdelight:recipes/decorations/stove": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
+      "has_campfire": "2024-12-31 01:12:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
+      "has_water_bucket": "2024-12-31 00:58:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
+      "has_ghast_tear": "2024-12-31 00:52:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
+      "has_honeycomb": "2024-12-31 00:56:47 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-31 00:18:55 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

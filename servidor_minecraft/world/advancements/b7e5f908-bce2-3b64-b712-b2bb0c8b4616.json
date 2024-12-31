@@ -4228,5 +4228,17 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-31 00:55:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-31 01:14:34 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
